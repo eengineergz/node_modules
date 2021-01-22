@@ -1,0 +1,54 @@
+{
+  "_from": "@types/chownr@ts4.1",
+  "_id": "@types/chownr@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-T6sN7Nzh1l4Dhvzbq3h5LHumB9LP/vw0MSyGbZKFGRmmx54/rQMYgEGlKvAT9Y1NZwqSAnQFPTOPUntWwyZthQ==",
+  "_location": "/@types/chownr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/chownr@ts4.1",
+    "name": "@types/chownr",
+    "escapedName": "@types%2fchownr",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/chownr/-/chownr-1.0.0.tgz",
+  "_shasum": "76570178d6067afb361b86ec36015e3e6a5ad66f",
+  "_spec": "@types/chownr@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for chownr",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/chownr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "2889b5ef7dad3107e9476a3631a5bf35b6c64b201bad4b0434f7f20edd625562",
+  "version": "1.0.0"
+}

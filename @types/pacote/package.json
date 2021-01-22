@@ -1,0 +1,59 @@
+{
+  "_from": "@types/pacote@ts4.1",
+  "_id": "@types/pacote@11.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ULeeKzbZ3e5GRlqbVDUDgi0L0RYg4OJXLSrtOoyTmGJTAN7JdR0IyZ0kXCCjGzkZwh4ABM7TKISwyDkJqnbAgw==",
+  "_location": "/@types/pacote",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/pacote@ts4.1",
+    "name": "@types/pacote",
+    "escapedName": "@types%2fpacote",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/pacote/-/pacote-11.1.0.tgz",
+  "_shasum": "5324b9d36ecb31ad45bc09c9c29c996b7c0fc27d",
+  "_spec": "@types/pacote@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Joel Spadin",
+      "url": "https://github.com/ChaosinaCan"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*",
+    "@types/npm-registry-fetch": "*",
+    "@types/npmlog": "*",
+    "@types/ssri": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for pacote",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/pacote",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/pacote"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "55aa38b5cc1b54f0ba3c7c387d6782e8bbf83a338bcc297839402a650a53cc7d",
+  "version": "11.1.0"
+}

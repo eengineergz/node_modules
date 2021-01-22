@@ -1,0 +1,54 @@
+{
+  "_from": "@types/pascalcase@ts4.1",
+  "_id": "@types/pascalcase@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-GUljFjs6pnZuxxmStKR1uDWIcGQSVdmUedFfreyJGU0owXW096kvYxf+6T/e1I6r3N8gNrqk3PETHqZwlR2xVg==",
+  "_location": "/@types/pascalcase",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/pascalcase@ts4.1",
+    "name": "@types/pascalcase",
+    "escapedName": "@types%2fpascalcase",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/pascalcase/-/pascalcase-1.0.0.tgz",
+  "_shasum": "7f655b653e2ed207e282e13b6d2f4cfe5e93c5b1",
+  "_spec": "@types/pascalcase@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "IdeFFiX",
+      "url": "https://github.com/ideffix"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for pascalcase",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/pascalcase",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/pascalcase"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "e3344f80fa552dee57023a5c2a282e72f040f3a30bd1712861786b24651019c3",
+  "version": "1.0.0"
+}

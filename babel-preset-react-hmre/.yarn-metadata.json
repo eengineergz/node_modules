@@ -1,0 +1,46 @@
+{
+  "manifest": {
+    "name": "babel-preset-react-hmre",
+    "version": "1.1.1",
+    "description": "Babel preset for React HMR and Error Catching",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/danmartinez101/babel-preset-react-hmre.git"
+    },
+    "scripts": {
+      "test": "babel --presets react,../index test/ | grep \"_wrapComponent('Test')(class Test extends React.Component {\""
+    },
+    "main": "index.js",
+    "author": {
+      "name": "Daniel Martinez"
+    },
+    "license": "ISC",
+    "dependencies": {
+      "babel-plugin-react-transform": "^2.0.2",
+      "react-transform-catch-errors": "^1.0.2",
+      "react-transform-hmr": "^1.0.3",
+      "redbox-react": "^1.2.2"
+    },
+    "devDependencies": {
+      "babel-cli": "^6.6.5",
+      "babel-preset-react": "^6.3.13",
+      "react": "^0.14.7"
+    },
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-babel-preset-react-hmre-1.1.1-d216e60cb5b8d4c873e19ed0f54eaff1437bc492/node_modules/babel-preset-react-hmre/package.json",
+    "readmeFilename": "readme.md",
+    "readme": "# Babel preset for React HMR and Error Catching\n[![Circle CI](https://circleci.com/gh/danmartinez101/babel-preset-react-hmre.svg?style=shield)](https://circleci.com/gh/danmartinez101/babel-preset-react-hmre)\n\nThis preset will configure Babel 6 for https://github.com/gaearon/react-transform-hmr and friends.\n\nIt is recommended that this preset only be configured for your development builds.\n\n## Install\n\n```\n\nnpm install babel-preset-react-hmre --save-dev\n\n```\n\n## Configure babel via .babelrc\n```\n\n{\n  \"presets\": [\"react\", \"es2015\"],\n  \"env\": {\n    \"development\": {\n      \"presets\": [\"react-hmre\"]\n    }\n  }\n}\n\n```\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-preset-react-hmre/-/babel-preset-react-hmre-1.1.1.tgz#d216e60cb5b8d4c873e19ed0f54eaff1437bc492",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-preset-react-hmre/-/babel-preset-react-hmre-1.1.1.tgz",
+    "hash": "d216e60cb5b8d4c873e19ed0f54eaff1437bc492",
+    "registry": "npm",
+    "packageName": "babel-preset-react-hmre",
+    "cacheIntegrity": "sha512-UYkUorcR+xvRXeQxykWxlgCnl4m2GmKDYyr9TiRoJ2+vXw1vusMsH+j9wp9a6aWAMOlaO+vFy/PYNlyRzJW9/w== sha1-0hbmDLW41Mhz4Z7Q9U6v8UN7xJI="
+  },
+  "registry": "npm",
+  "hash": "d216e60cb5b8d4c873e19ed0f54eaff1437bc492"
+}

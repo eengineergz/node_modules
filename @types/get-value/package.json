@@ -1,0 +1,58 @@
+{
+  "_from": "@types/get-value@ts4.1",
+  "_id": "@types/get-value@3.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Pla+0sjwKHH9d5aejg9hSXd+NxlKnaLutTpckENtCNTnrC+EmAsQsqhp+WJX8LgOBDDiRtiBj5kX8PwAfL+KdQ==",
+  "_location": "/@types/get-value",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/get-value@ts4.1",
+    "name": "@types/get-value",
+    "escapedName": "@types%2fget-value",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/get-value/-/get-value-3.0.1.tgz",
+  "_shasum": "67da2663d2a632fb2ed33693479176b2841749ca",
+  "_spec": "@types/get-value@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Daniel Rosenwasser",
+      "url": "https://github.com/DanielRosenwasser"
+    },
+    {
+      "name": "Mathew Allen",
+      "url": "https://github.com/TheMallen"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for get-value",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/get-value",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/get-value"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "types": "index",
+  "typesPublisherContentHash": "6b7cba7a4edf69a19bbba88893ad61deb30fbeac2355dc7d5230dac04bf90a13",
+  "version": "3.0.1"
+}

@@ -1,0 +1,54 @@
+{
+  "_from": "@types/single-trailing-newline@ts4.1",
+  "_id": "@types/single-trailing-newline@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-aNu7HDzlx/G7kvCk6P2qLZ0dpIr377B/lrINGeGZ19OOh3ZfYuKiFbwywowP2ZKYdTdkY3/O7Fw51rkxSH6nsg==",
+  "_location": "/@types/single-trailing-newline",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/single-trailing-newline@ts4.1",
+    "name": "@types/single-trailing-newline",
+    "escapedName": "@types%2fsingle-trailing-newline",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/single-trailing-newline/-/single-trailing-newline-1.0.0.tgz",
+  "_shasum": "726b08c3c27651fbba58186e420a188dda2b6b4d",
+  "_spec": "@types/single-trailing-newline@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Peter Juras",
+      "url": "https://github.com/peterjuras"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for single-trailing-newline",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/single-trailing-newline",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/single-trailing-newline"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.2",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "56199d7988eedbc12aff698bffb8d5df021217b59a8289ac88c26abd3c6fe1c9",
+  "version": "1.0.0"
+}

@@ -1,0 +1,63 @@
+{
+  "manifest": {
+    "name": "@types/prettier",
+    "version": "2.1.5",
+    "description": "TypeScript definitions for prettier",
+    "license": "MIT",
+    "contributors": [
+      {
+        "name": "Ika",
+        "url": "https://github.com/ikatyang"
+      },
+      {
+        "name": "Ifiok Jr.",
+        "url": "https://github.com/ifiokjr"
+      },
+      {
+        "name": "Florian Keller",
+        "url": "https://github.com/ffflorian"
+      },
+      {
+        "name": "Sosuke Suzuki",
+        "url": "https://github.com/sosukesuzuki"
+      },
+      {
+        "name": "Christopher Quadflieg",
+        "url": "https://github.com/Shinigami92"
+      },
+      {
+        "name": "Kevin Deisz",
+        "url": "https://github.com/kddeisz"
+      }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "directory": "types/prettier"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "d76ac305801e18b2c028d2a4c5ac2c2347a2529ab76dc3b5d68ab935053ca639",
+    "typeScriptVersion": "3.2",
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-@types-prettier-2.1.5-b6ab3bba29e16b821d84e09ecfaded462b816b00-integrity/node_modules/@types/prettier/package.json",
+    "readmeFilename": "README.md",
+    "readme": "# Installation\n> `npm install --save @types/prettier`\n\n# Summary\nThis package contains type definitions for prettier (https://github.com/prettier/prettier).\n\n# Details\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prettier.\n\n### Additional Details\n * Last updated: Fri, 16 Oct 2020 17:36:09 GMT\n * Dependencies: none\n * Global values: `prettier`\n\n# Credits\nThese definitions were written by [Ika](https://github.com/ikatyang), [Ifiok Jr.](https://github.com/ifiokjr), [Florian Keller](https://github.com/ffflorian), [Sosuke Suzuki](https://github.com/sosukesuzuki), [Christopher Quadflieg](https://github.com/Shinigami92), and [Kevin Deisz](https://github.com/kddeisz).\n",
+    "licenseText": "    MIT License\n\n    Copyright (c) Microsoft Corporation.\n\n    Permission is hereby granted, free of charge, to any person obtaining a copy\n    of this software and associated documentation files (the \"Software\"), to deal\n    in the Software without restriction, including without limitation the rights\n    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n    copies of the Software, and to permit persons to whom the Software is\n    furnished to do so, subject to the following conditions:\n\n    The above copyright notice and this permission notice shall be included in all\n    copies or substantial portions of the Software.\n\n    THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n    SOFTWARE\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.1.5.tgz#b6ab3bba29e16b821d84e09ecfaded462b816b00",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.1.5.tgz",
+    "hash": "b6ab3bba29e16b821d84e09ecfaded462b816b00",
+    "integrity": "sha512-UEyp8LwZ4Dg30kVU2Q3amHHyTn1jEdhCIE59ANed76GaT1Vp76DD3ZWSAxgCrw6wJ0TqeoBpqmfUHiUDPs//HQ==",
+    "registry": "npm",
+    "packageName": "@types/prettier",
+    "cacheIntegrity": "sha512-UEyp8LwZ4Dg30kVU2Q3amHHyTn1jEdhCIE59ANed76GaT1Vp76DD3ZWSAxgCrw6wJ0TqeoBpqmfUHiUDPs//HQ== sha1-tqs7uinha4IdhOCez63tRiuBawA="
+  },
+  "registry": "npm",
+  "hash": "b6ab3bba29e16b821d84e09ecfaded462b816b00"
+}

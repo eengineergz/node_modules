@@ -1,0 +1,62 @@
+{
+  "_from": "@types/hosted-git-info@ts4.1",
+  "_id": "@types/hosted-git-info@3.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-aiwBC0e2PndtyQ9pOwA9ujBJ6ayysuvbQzQ4M38LGHLZniuTFAqjlKnW5TZLqpF3rgD+kevFoLjkw8ZJSdqhzQ==",
+  "_location": "/@types/hosted-git-info",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/hosted-git-info@ts4.1",
+    "name": "@types/hosted-git-info",
+    "escapedName": "@types%2fhosted-git-info",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/hosted-git-info/-/hosted-git-info-3.0.1.tgz",
+  "_shasum": "ae017651a1c3aab1c72674ff0924aa5a0c325437",
+  "_spec": "@types/hosted-git-info@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Jason",
+      "url": "https://github.com/OiyouYeahYou"
+    },
+    {
+      "name": "Michael",
+      "url": "https://github.com/Ovyerus"
+    },
+    {
+      "name": "Daniel Cassidy",
+      "url": "https://github.com/djcsdy"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for hosted-git-info",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/hosted-git-info",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/hosted-git-info"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.2",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "fbb7ab8d4bf43823d17246ecd258e9cc3e7e90e51da918f2e73cc66fe4c5f111",
+  "version": "3.0.1"
+}

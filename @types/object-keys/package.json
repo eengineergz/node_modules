@@ -1,0 +1,58 @@
+{
+  "_from": "@types/object-keys@ts4.1",
+  "_id": "@types/object-keys@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-jQiWwiScwN0AqKA9lnuQ6Ivioczb0wLqkB9H8gpf4adN1F4kDuO7kb5kC2x00AtpCHiXSp8kQgE2pWe17CyvXw==",
+  "_location": "/@types/object-keys",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/object-keys@ts4.1",
+    "name": "@types/object-keys",
+    "escapedName": "@types%2fobject-keys",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/object-keys/-/object-keys-1.0.1.tgz",
+  "_shasum": "fc8afe752f647d5ae57209cc8cbfd35eb49f5ac3",
+  "_spec": "@types/object-keys@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Vitor Luiz Cavalcanti",
+      "url": "https://github.com/VitorLuizC"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for object-keys",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/object-keys",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/object-keys"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "6fc91cc3e0aae0d4e3d7241b49c683b82cf4fd96bcd37548642d9e84b630e82c",
+  "version": "1.0.1"
+}

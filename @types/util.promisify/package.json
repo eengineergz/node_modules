@@ -1,0 +1,68 @@
+{
+  "_from": "@types/util.promisify@ts4.1",
+  "_id": "@types/util.promisify@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-sqbKBFegMRBvFOTq1+dXmRNfZvGZTNT+PlmIla/RFWLTQuNIKK3F9txxuG35Hk5Yl72pQLKdMBKwieqDcgzJ4Q==",
+  "_location": "/@types/util.promisify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/util.promisify@ts4.1",
+    "name": "@types/util.promisify",
+    "escapedName": "@types%2futil.promisify",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/util.promisify/-/util.promisify-1.0.4.tgz",
+  "_shasum": "e3a87a6580e18cdd72c5f3631a0aa7a1edc37acb",
+  "_spec": "@types/util.promisify@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Adam Voss",
+      "url": "https://github.com/adamvoss"
+    },
+    {
+      "name": "Piotr Roszatycki",
+      "url": "https://github.com/dex4er"
+    },
+    {
+      "name": "ExE Boss",
+      "url": "https://github.com/ExE-Boss"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for util.promisify",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/util.promisify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/util.promisify"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "77a277bfe54a1d38a91c8a3ea93b265e99e082fbb3cc5cf5c8210e4766799e66",
+  "version": "1.0.4"
+}

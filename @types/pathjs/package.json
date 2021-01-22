@@ -1,0 +1,54 @@
+{
+  "_from": "@types/pathjs@ts4.1",
+  "_id": "@types/pathjs@0.8.35",
+  "_inBundle": false,
+  "_integrity": "sha512-jfHjLO1J+eBW1303wZfXrzDqKiO133382FkPZc/bVwJj+eR/wFDPJlSaS7eMqqm+ZCVeqPb7Tj+dxGoiBQuZ7Q==",
+  "_location": "/@types/pathjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/pathjs@ts4.1",
+    "name": "@types/pathjs",
+    "escapedName": "@types%2fpathjs",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/pathjs/-/pathjs-0.8.35.tgz",
+  "_shasum": "e368c4060a2f36c8a7ab0a2a579b7e9602a145ed",
+  "_spec": "@types/pathjs@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Lokesh Peta",
+      "url": "https://github.com/lokeshpeta"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for Pathjs",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/pathjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/pathjs"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "2087dbcd1fb7428bfa0bbd9526c95e3bc509b974bbd946732bc1506103467b9a",
+  "version": "0.8.35"
+}

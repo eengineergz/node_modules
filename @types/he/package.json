@@ -1,0 +1,58 @@
+{
+  "_from": "@types/he@ts4.1",
+  "_id": "@types/he@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-jpzrsR1ns0n3kyWt92QfOUQhIuJGQ9+QGa7M62rO6toe98woQjnsnzjdMtsQXCdvjjmqjS2ZBCC7xKw0cdzU+Q==",
+  "_location": "/@types/he",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/he@ts4.1",
+    "name": "@types/he",
+    "escapedName": "@types%2fhe",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/he/-/he-1.1.1.tgz",
+  "_shasum": "19e14033c4ee8f1a702c74dcc6182664839ac2b7",
+  "_spec": "@types/he@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Simon Edwards",
+      "url": "https://github.com/sedwards2009"
+    },
+    {
+      "name": "Robin Tregaskis",
+      "url": "https://github.com/lokidokicoki"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for he",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/he",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/he"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "8f0af79178c2d48546deab2f70f3d5b19a879746771b385243098b208b87aff9",
+  "version": "1.1.1"
+}

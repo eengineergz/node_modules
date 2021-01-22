@@ -1,0 +1,54 @@
+{
+  "_from": "@types/cliff@ts4.1",
+  "_id": "@types/cliff@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-26O7DGEzfF+N12ZfIsPHfFmYlBz9cGAFm0A8VRGiEusVBDimLehxReNuVTHy6lMJknFB0BZm13nSgoSW4UDILg==",
+  "_location": "/@types/cliff",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/cliff@ts4.1",
+    "name": "@types/cliff",
+    "escapedName": "@types%2fcliff",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/cliff/-/cliff-0.1.5.tgz",
+  "_shasum": "cad520ab1af26395f666a2fe4e65f89f44fb30e8",
+  "_spec": "@types/cliff@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "bryn austin bellomy",
+      "url": "https://github.com/brynbellomy"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for cliff",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/cliff",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/cliff"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "d3c4c80c778860d2196fecb285d9bb968da34928cc60a4f804fac214229ed890",
+  "version": "0.1.5"
+}

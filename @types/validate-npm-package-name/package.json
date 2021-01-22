@@ -1,0 +1,58 @@
+{
+  "_from": "@types/validate-npm-package-name@ts4.1",
+  "_id": "@types/validate-npm-package-name@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-7ohzD2fh5iV74brBLY2SdEI/nt4vnUoY1++r0P8QEAL5utR0fTFGeGijJMLHTmeNriroZQphGyVp46CbIuILMA==",
+  "_location": "/@types/validate-npm-package-name",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/validate-npm-package-name@ts4.1",
+    "name": "@types/validate-npm-package-name",
+    "escapedName": "@types%2fvalidate-npm-package-name",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/validate-npm-package-name/-/validate-npm-package-name-3.0.2.tgz",
+  "_shasum": "91798f047eee96f14c4a64f873936f21715ff0b9",
+  "_spec": "@types/validate-npm-package-name@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Florian Keller",
+      "url": "https://github.com/ffflorian"
+    },
+    {
+      "name": "Piotr Błażejewicz",
+      "url": "https://github.com/peterblazejewicz"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for validate-npm-package-name",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/validate-npm-package-name",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/validate-npm-package-name"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.3",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "de63edc8c3532c00823096222be3ada91132a1ac359f8c143e631715bcdd62d9",
+  "version": "3.0.2"
+}

@@ -1,0 +1,50 @@
+{
+  "_from": "@types/type-check@ts4.1",
+  "_id": "@types/type-check@0.3.27",
+  "_inBundle": false,
+  "_integrity": "sha1-KH0GCu+mkA82GtVxvqWhf56EzM4=",
+  "_location": "/@types/type-check",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/type-check@ts4.1",
+    "name": "@types/type-check",
+    "escapedName": "@types%2ftype-check",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/type-check/-/type-check-0.3.27.tgz",
+  "_shasum": "287d060aefa6900f361ad571bea5a17f9e84ccce",
+  "_spec": "@types/type-check@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "author": {
+    "name": "Hans Windhoff",
+    "email": "https://github.com/hansrwindhoff"
+  },
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for type-check v0.3.1",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/type-check",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "c3cee999d69aaa29a611a619784dc764e9ed97bc38d650e0f727361b0f431659",
+  "typings": "index.d.ts",
+  "version": "0.3.27"
+}

@@ -1,0 +1,52 @@
+{
+  "_from": "@types/json-parse-better-errors@ts4.1",
+  "_id": "@types/json-parse-better-errors@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-JAsGXEMsiw2ttNrlady/Z8ztrSEl1y8IoG9ge7hpBQ4I+ilKxelOPGKnVmt9TX69lkXdJioDWCkzkktWcdAshA==",
+  "_location": "/@types/json-parse-better-errors",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/json-parse-better-errors@ts4.1",
+    "name": "@types/json-parse-better-errors",
+    "escapedName": "@types%2fjson-parse-better-errors",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/json-parse-better-errors/-/json-parse-better-errors-1.0.0.tgz",
+  "_shasum": "ef8ab2a2270c5da1efb989be175ff27a5fb0b37e",
+  "_spec": "@types/json-parse-better-errors@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Daniel Rosenwasser",
+      "url": "https://github.com/DanielRosenwasser"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for json-parse-better-errors",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/json-parse-better-errors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "fea08c6b2b24eadfbd80d9432236eb8ff661d8198618cc82df45642bec017acd",
+  "version": "1.0.0"
+}

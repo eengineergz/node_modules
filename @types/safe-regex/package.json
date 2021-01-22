@@ -1,0 +1,53 @@
+{
+  "_from": "@types/safe-regex@ts4.1",
+  "_id": "@types/safe-regex@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-wuS9LVpgIiTYaGKd+s6Dj0kRXBkttaXjVxzaXmviCACi8RO+INPayND+VNjAcall/l1Jkyhh9lyPfKW/aP/Yug==",
+  "_location": "/@types/safe-regex",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/safe-regex@ts4.1",
+    "name": "@types/safe-regex",
+    "escapedName": "@types%2fsafe-regex",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/safe-regex/-/safe-regex-1.1.2.tgz",
+  "_shasum": "0434f128255fe79c34ff21ffd18c706b2bad8856",
+  "_spec": "@types/safe-regex@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Mohamed Hegazy",
+      "url": "https://github.com/mhegazy"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for safe-regex",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/safe-regex",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "af88fb6e21c96f3f9baab2624cc4f935581006890312e1e845e1aa0d6da477b8",
+  "version": "1.1.2"
+}

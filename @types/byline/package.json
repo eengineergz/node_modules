@@ -1,0 +1,56 @@
+{
+  "_from": "@types/byline@ts4.1",
+  "_id": "@types/byline@4.2.32",
+  "_inBundle": false,
+  "_integrity": "sha512-qtlm/J6XOO9p+Ep/ZB5+mCFEDhzWDDHWU4a1eReN7lkPZXW9rkloq2jcAhvKKmlO5tL2GSvKROb+PTsNVhBiyQ==",
+  "_location": "/@types/byline",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/byline@ts4.1",
+    "name": "@types/byline",
+    "escapedName": "@types%2fbyline",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/byline/-/byline-4.2.32.tgz",
+  "_shasum": "9d35ec15968056118548412ee24c2c3026c997dc",
+  "_spec": "@types/byline@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Stefan Steinhart",
+      "url": "https://github.com/reppners"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for byline",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/byline",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/byline"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "abc7cfae3dd0971c2873a78b07b0c1d89b5b4e9bbc61d1b0441fa1b462d91273",
+  "version": "4.2.32"
+}

@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "name": "multilines",
+    "description": "The missing template literal for NodeJS.",
+    "version": "1.0.3",
+    "main": "dist/index.js",
+    "files": [
+      "dist"
+    ],
+    "scripts": {
+      "test": "NODE_ENV=test jest",
+      "build": "tsc -d",
+      "prepublishOnly": "npm-run-all build",
+      "coverage": "codecov",
+      "release": "semantic-release"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "@types/jest": "23.3.14",
+      "@types/node": "10.17.13",
+      "codecov": "3.6.1",
+      "husky": "1.3.1",
+      "jest": "23.6.0",
+      "npm-run-all": "4.1.5",
+      "prettier": "1.19.1",
+      "pretty-quick": "1.11.1",
+      "rimraf": "2.7.1",
+      "semantic-release": "15.14.0",
+      "ts-jest": "23.10.5",
+      "ts-node": "7.0.1",
+      "typescript": "3.7.4"
+    },
+    "license": "MIT",
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-multilines-1.0.3-e7add2ed8cae9bbd2ef239c036f859d5bf60f011-integrity/node_modules/multilines/package.json",
+    "readmeFilename": "README.md",
+    "readme": "> If this package reaches anyone from NPM, please let me know if we could change the name to `multilinestring`.\n\n# multilines\n\n[![npm version](https://badge.fury.io/js/multilines.svg)](https://badge.fury.io/js/multilines)\n[![CircleCI](https://circleci.com/gh/maticzav/multilinestring/tree/master.svg?style=shield)](https://circleci.com/gh/maticzav/multilinestring/tree/master)\n[![codecov](https://codecov.io/gh/maticzav/multilinestring/branch/master/graph/badge.svg)](https://codecov.io/gh/maticzav/multilinestring)\n\n> The missing template literal for NodeJS.\n\n## Overview\n\n`multilines` removes all spaces before `|` character and first space after if present.\n\n- 💅 **Prettier code style:** You no longer have to care about spaces in multiline strings!\n- 🌳 **Zero dependencies:** Completely self contained!\n- 💡 **Inspired by Scala code style:** Used by the best, now implemented for everyone.\n\n## Installation\n\n```bash\nyarn add multilines\n```\n\n## Example\n\n```ts\nimport mls from 'multilines'\n\n// Before\n\nfunction generate(...args) {\n  const string = `\nI have to start at the beggining of the line\nso I don't break the string indentation.\n  `\n}\n\n// After\n\nfunction generate(...args) {\n  const string = mls`\n    | I can be aligned with other code\n    | and everything still works as expected.\n    `\n}\n```\n\n## License\n\nMIT @ Matic Zavadlal\n",
+    "licenseText": "MIT License\n\nCopyright (c) 2019 Matic Zavadlal\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/multilines/-/multilines-1.0.3.tgz#e7add2ed8cae9bbd2ef239c036f859d5bf60f011",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/multilines/-/multilines-1.0.3.tgz",
+    "hash": "e7add2ed8cae9bbd2ef239c036f859d5bf60f011",
+    "integrity": "sha512-7gbBXFs7epYsX4u4cUmWDOfNCm7fJPj/DyiMrjgZTKV+0zEHpC2t4heew8gWM+O9EeDpl8BT+T5wR4eQCURu3Q==",
+    "registry": "npm",
+    "packageName": "multilines",
+    "cacheIntegrity": "sha512-7gbBXFs7epYsX4u4cUmWDOfNCm7fJPj/DyiMrjgZTKV+0zEHpC2t4heew8gWM+O9EeDpl8BT+T5wR4eQCURu3Q== sha1-563S7Yyum70u8jnANvhZ1b9g8BE="
+  },
+  "registry": "npm",
+  "hash": "e7add2ed8cae9bbd2ef239c036f859d5bf60f011"
+}

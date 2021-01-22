@@ -1,0 +1,163 @@
+{
+  "manifest": {
+    "name": "algoliasearch",
+    "version": "3.35.1",
+    "description": "AlgoliaSearch API JavaScript client",
+    "main": "index.js",
+    "jsdelivr": "./dist/algoliasearch.min.js",
+    "browser": {
+      "./index.js": "./src/browser/builds/algoliasearch.js",
+      "./lite.js": "./src/browser/builds/algoliasearchLite.js"
+    },
+    "scripts": {
+      "build": "./scripts/build",
+      "dev": "APP_ENV=development DEBUG=zuul* zuul --no-coverage --local 8080 -- test/run-browser.js",
+      "dev-integration": "APP_ENV=development DEBUG=zuul* zuul --no-coverage --local 8080 -- test/run-integration.js",
+      "examples": "http-server . -a 0.0.0.0",
+      "watch": "watchify index.js -d -v -s algoliasearch -o dist/algoliasearch.js",
+      "release": "git clean dist/ -f && git checkout dist/ && yarn && ./scripts/release && APP_ENV=production npm run build",
+      "test": "./scripts/test",
+      "test-ci:lint": "./scripts/lint",
+      "test-ci:bundlesize": "./scripts/bundlesize",
+      "test-ci:unit-node": "./scripts/test-node-unit",
+      "test-ci:integration-node": "./scripts/test-node-integration",
+      "test-ci:unit-browsers": "./scripts/test-browser unit",
+      "test-ci:integration-browsers": "./scripts/test-browser integration",
+      "lint": "./scripts/lint"
+    },
+    "browserify": {
+      "transform": [
+        "envify"
+      ]
+    },
+    "bundlesize": [
+      {
+        "path": "./dist/algoliasearch.?(jquery|angular).min.js",
+        "maxSize": "20 kB"
+      },
+      {
+        "path": "./dist/algoliasearchLite.min.js",
+        "maxSize": "13 kB"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/algolia/algoliasearch-client-js.git"
+    },
+    "keywords": [
+      "algolia",
+      "search",
+      "search api",
+      "instant search",
+      "realtime",
+      "autocomplete"
+    ],
+    "homepage": "https://www.algolia.com/doc/api-client/javascript/",
+    "bugs": {
+      "url": "https://github.com/algolia/algoliasearch-client-js/issues"
+    },
+    "author": {
+      "name": "Algolia SAS",
+      "url": "https://www.algolia.com"
+    },
+    "contributors": [
+      {
+        "name": "Algolia Team",
+        "email": "support@algolia.com",
+        "url": "http://www.algolia.com"
+      }
+    ],
+    "files": [
+      "src",
+      "dist",
+      "plugins",
+      "index.js",
+      "lite.js",
+      "reactnative.js",
+      "bower.json"
+    ],
+    "dependencies": {
+      "agentkeepalive": "^2.2.0",
+      "debug": "^2.6.9",
+      "envify": "^4.0.0",
+      "es6-promise": "^4.1.0",
+      "events": "^1.1.0",
+      "foreach": "^2.0.5",
+      "global": "^4.3.2",
+      "inherits": "^2.0.1",
+      "isarray": "^2.0.1",
+      "load-script": "^1.0.0",
+      "object-keys": "^1.0.11",
+      "querystring-es3": "^0.2.1",
+      "reduce": "^1.0.1",
+      "semver": "^5.1.0",
+      "tunnel-agent": "^0.6.0"
+    },
+    "devDependencies": {
+      "angular": "^1.6.4",
+      "array.from": "^1.0.3",
+      "async": "^1.5.2",
+      "babel-eslint": "^4.1.6",
+      "bowser": "1.9.3",
+      "browserify": "^14.5.0",
+      "bulk-require": "^1.0.0",
+      "bulkify": "^1.2.0",
+      "bundle-collapser": "^1.2.1",
+      "bundlesize": "^0.15.3",
+      "chance": "^1.0.9",
+      "compression": "^1.6.2",
+      "deumdify": "^1.2.4",
+      "domready": "0.3.0",
+      "eslint": "^1.7.3",
+      "eslint-config-airbnb": "^0.1.0",
+      "eslint-config-algolia": "4.2.0",
+      "eslint-plugin-react": "^3.6.3",
+      "express": "^4.15.3",
+      "faux-jax": "^5.0.6",
+      "http-proxy": "^1.13.3",
+      "http-server": "^0.10.0",
+      "jquery": "^3.2.1",
+      "jquery-ajax-transport-xdomainrequest": "^1.0.4",
+      "lodash-compat": "^3.10.2",
+      "morgan": "^1.8.2",
+      "mversion": "^1.10.1",
+      "pretty-bytes": "^2.0.1",
+      "proxy": "^0.2.4",
+      "proxy-agent": "^2.0.0",
+      "self-signed": "^1.3.1",
+      "server-destroy-vvo": "^1.0.1",
+      "sinon": "^1.17.7",
+      "tap-bail": "^1.0.0",
+      "tap-dot": "^1.0.5",
+      "tape": "^4.5.1",
+      "uglify-js": "2.6.4",
+      "url-parse": "^1.1.9",
+      "watchify": "^3.9.0",
+      "webpack": "^1.13.1",
+      "xhr": "^2.4.0",
+      "zuul": "^3.12.0"
+    },
+    "engines": {
+      "node": ">=0.8"
+    },
+    "license": "MIT",
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-algoliasearch-3.35.1-297d15f534a3507cab2f5dfb996019cac7568f0c-integrity/node_modules/algoliasearch/package.json",
+    "readmeFilename": "README.md",
+    "readme": "<p align=\"center\">\n  <a href=\"https://www.algolia.com\">\n    <img alt=\"Algolia for JavaScript\" src=\"https://raw.githubusercontent.com/algolia/algoliasearch-client-common/master/banners/javascript.png\" >\n  </a>\n\n  <h4 align=\"center\">The perfect starting point to integrate <a href=\"https://algolia.com\" target=\"_blank\">Algolia</a> within your JavaScript project</h4>\n\n  <p align=\"center\">\n    <a href=\"https://travis-ci.org/algolia/algoliasearch-client-javascript\"><img src=\"https://img.shields.io/travis/algolia/algoliasearch-client-javascript/master.svg\" alt=\"Build Status\"></img></a>\n    <a href=\"https://npmjs.org/package/algoliasearch\"><img src=\"https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square\" alt=\"NPM version\"></img></a>\n    <a href=\"http://npm-stat.com/charts.html?package=algoliasearch\"><img src=\"https://img.shields.io/npm/dm/algoliasearch.svg?style=flat-square\" alt=\"NPM downloads\"></a>\n    <a href=\"https://www.jsdelivr.com/package/npm/algoliasearch\"><img src=\"https://data.jsdelivr.com/v1/package/npm/algoliasearch/badge\" alt=\"jsDelivr Downloads\"></img></a>\n    <a href=\"LICENSE.txt\"><img src=\"https://img.shields.io/badge/license-MIT-green.svg?style=flat-square\" alt=\"License\"></a>\n  </p>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.algolia.com/doc/api-client/getting-started/install/javascript/\" target=\"_blank\">Documentation</a>  •\n  <a href=\"https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/\" target=\"_blank\">InstantSearch</a>  •\n  <a href=\"https://discourse.algolia.com\" target=\"_blank\">Community Forum</a>  •\n  <a href=\"http://stackoverflow.com/questions/tagged/algolia\" target=\"_blank\">Stack Overflow</a>  •\n  <a href=\"https://github.com/algolia/algoliasearch-client-javascript/issues\" target=\"_blank\">Report a bug</a>  •\n  <a href=\"https://www.algolia.com/support\" target=\"_blank\">Support</a>\n</p>\n\n## ✨ Features\n\n- Thin & **minimal low-level HTTP client** to interact with Algolia's API\n- Works both on the **browser** and **node.js**\n- **UMD compatible**, you can use it with any module loader\n- Contains type definitions: **[@types/algoliasearch](https://www.npmjs.com/package/@types/algoliasearch)**\n\n## 💡 Getting Started\n\nFirst, install Algolia JavaScript API Client via the [npm](https://www.npmjs.com/get-npm) package manager:\n\n```bash\nnpm install --save algoliasearch\n```\n\nThen, create objects on your index:\n\n```js\nconst algoliasearch = require('algoliasearch');\n\nconst client = algoliasearch('YourApplicationID', 'YourAdminAPIKey');\nconst index = client.initIndex('your_index_name');\n\nconst objects = [{\n  objectID: 1,\n  name: 'Foo'\n}];\n\nindex\n  .saveObjects(objects)\n  .then(({ objectIDs }) => {\n    console.log(objectIDs);\n  })\n  .catch(err => {\n    console.log(err);\n  });\n```\n\nFinally, let's actually search using the `search` method:\n\n```js\nindex\n  .search('Fo')\n  .then(({ hits }) => {\n    console.log(hits);\n  })\n  .catch(err => {\n    console.log(err);\n  });\n```\n\nFor full documentation, visit the **[online documentation](https://www.algolia.com/doc/api-client/getting-started/install/javascript/)**.\n\n## 📄 License\n\nAlgolia JavaScript API Client is an open-sourced software licensed under the [MIT license](LICENSE.txt).\n",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2013 Algolia\nhttp://www.algolia.com/\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/algoliasearch/-/algoliasearch-3.35.1.tgz#297d15f534a3507cab2f5dfb996019cac7568f0c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/algoliasearch/-/algoliasearch-3.35.1.tgz",
+    "hash": "297d15f534a3507cab2f5dfb996019cac7568f0c",
+    "integrity": "sha512-K4yKVhaHkXfJ/xcUnil04xiSrB8B8yHZoFEhWNpXg23eiCnqvTZw1tn/SqvdsANlYHLJlKl0qi3I/Q2Sqo7LwQ==",
+    "registry": "npm",
+    "packageName": "algoliasearch",
+    "cacheIntegrity": "sha512-K4yKVhaHkXfJ/xcUnil04xiSrB8B8yHZoFEhWNpXg23eiCnqvTZw1tn/SqvdsANlYHLJlKl0qi3I/Q2Sqo7LwQ== sha1-KX0V9TSjUHyrL137mWAZysdWjww="
+  },
+  "registry": "npm",
+  "hash": "297d15f534a3507cab2f5dfb996019cac7568f0c"
+}

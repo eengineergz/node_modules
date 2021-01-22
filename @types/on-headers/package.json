@@ -1,0 +1,58 @@
+{
+  "_from": "@types/on-headers@ts4.1",
+  "_id": "@types/on-headers@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-m5LRgPZzWPHGoEQDbuVuduRMctCW5tDarxi9f7+rYZoJDy7nMHMMrODtqbwPpNjYc6Ilg4vL2NeYAwimJfku3w==",
+  "_location": "/@types/on-headers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/on-headers@ts4.1",
+    "name": "@types/on-headers",
+    "escapedName": "@types%2fon-headers",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/on-headers/-/on-headers-1.0.0.tgz",
+  "_shasum": "12e80879ff22257036d3f18310c39de1881d141e",
+  "_spec": "@types/on-headers@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "John Jeffery",
+      "url": "https://github.com/jjeffery"
+    },
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for on-headers",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/on-headers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "74a641d201e8b2344ab86305c6d3adc0a8685afcdba938e0d0e3df275e0869be",
+  "version": "1.0.0"
+}

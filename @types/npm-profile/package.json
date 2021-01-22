@@ -1,0 +1,56 @@
+{
+  "_from": "@types/npm-profile@ts4.1",
+  "_id": "@types/npm-profile@5.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gae4AnnnM0bh1UcBHkXtvnhezPDvZEnNCjGicqJAP243ugDhC3PwEydPuUd3KdREZPYs6EQgd01NVALg+SV7Zg==",
+  "_location": "/@types/npm-profile",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/npm-profile@ts4.1",
+    "name": "@types/npm-profile",
+    "escapedName": "@types%2fnpm-profile",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/npm-profile/-/npm-profile-5.0.0.tgz",
+  "_shasum": "4c32e0be59baa35a855ab02829c12819adba0dfa",
+  "_spec": "@types/npm-profile@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Piotr Błażejewicz",
+      "url": "https://github.com/peterblazejewicz"
+    }
+  ],
+  "dependencies": {
+    "@types/npm-registry-fetch": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for npm-profile",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/npm-profile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/npm-profile"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.5",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "902c8214eaeded583df8676461e36f1b794326e7296df71fc5b3bcd568b23616",
+  "version": "5.0.0"
+}

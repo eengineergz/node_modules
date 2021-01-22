@@ -1,0 +1,54 @@
+{
+  "_from": "@types/repeat-string@ts4.1",
+  "_id": "@types/repeat-string@1.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Nwr4xMZBJKzluvdF9QPKjqFi8EpR63jk0mQPBEXB/+kevUPBftRQrbt24m+NkRh0C9ftrNIqnnsDw9iyQv/j7g==",
+  "_location": "/@types/repeat-string",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/repeat-string@ts4.1",
+    "name": "@types/repeat-string",
+    "escapedName": "@types%2frepeat-string",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/repeat-string/-/repeat-string-1.6.0.tgz",
+  "_shasum": "79fa5c9e9b5fad3247b497ca67b021f78cacfdf2",
+  "_spec": "@types/repeat-string@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Adam Zerella",
+      "url": "https://github.com/adamzerella"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for repeat-string",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/repeat-string",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/repeat-string"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "82a8cb2b654dff648008e7521f8da09c0892b2d141d946f3a7bb81654aaa045e",
+  "version": "1.6.0"
+}

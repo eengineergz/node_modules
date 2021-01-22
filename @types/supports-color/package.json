@@ -1,0 +1,62 @@
+{
+  "_from": "@types/supports-color@ts4.1",
+  "_id": "@types/supports-color@7.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gtUcOP6qIpjbSDdWjMBRNSks42ccx1709mwKTgelW63BESIADw8Ju7klpydDDb9Kr0iRXfpwrXH8+zoU8TCqiA==",
+  "_location": "/@types/supports-color",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/supports-color@ts4.1",
+    "name": "@types/supports-color",
+    "escapedName": "@types%2fsupports-color",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/supports-color/-/supports-color-7.2.0.tgz",
+  "_shasum": "edd98ae52ee786b733a5dea0a23da4eb18ef7310",
+  "_spec": "@types/supports-color@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Melvin Groenhoff",
+      "url": "https://github.com/mgroenhoff"
+    },
+    {
+      "name": "Matt Traynham",
+      "url": "https://github.com/mtraynham"
+    },
+    {
+      "name": "Piotr Błażejewicz",
+      "url": "https://github.com/peterblazejewicz"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for supports-color",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/supports-color",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/supports-color"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.2",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "12a181147a8e293507f0a715c075a325a852cbe6311c5bcf13cd17ce3f23cd58",
+  "version": "7.2.0"
+}

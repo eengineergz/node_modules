@@ -1,0 +1,54 @@
+{
+  "_from": "@types/promise-inflight@ts4.1",
+  "_id": "@types/promise-inflight@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-R2lwwyFvS+DQmr0p6BBmI79K3VvwcunXWn+5LTrENGnmxMHV1h5LKQv3Rip1lTflVPh9Zjm4vinWfGq36oRuuw==",
+  "_location": "/@types/promise-inflight",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/promise-inflight@ts4.1",
+    "name": "@types/promise-inflight",
+    "escapedName": "@types%2fpromise-inflight",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/promise-inflight/-/promise-inflight-1.0.0.tgz",
+  "_shasum": "3f391254c743015866182a8ae6f4d743b13006c4",
+  "_spec": "@types/promise-inflight@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Emily Marigold Klassen",
+      "url": "https://github.com/forivall"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for promise-inflight",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/promise-inflight",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/promise-inflight"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "23d908875960830480e076e842838ee0c2b91d995d660798d7ba4a0ae7821414",
+  "version": "1.0.0"
+}

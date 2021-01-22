@@ -1,0 +1,54 @@
+{
+  "_from": "@types/ansicolors@ts4.1",
+  "_id": "@types/ansicolors@0.0.33",
+  "_inBundle": false,
+  "_integrity": "sha512-dVS1WW/BqYdwbv1H0Cgpq8ChV4VowUXz+R7pYKGEHhF+mdg/MibuE+6Et/GBxg6nfKKFVf2ZsQkyr7XNR2SqxA==",
+  "_location": "/@types/ansicolors",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/ansicolors@ts4.1",
+    "name": "@types/ansicolors",
+    "escapedName": "@types%2fansicolors",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/ansicolors/-/ansicolors-0.0.33.tgz",
+  "_shasum": "9156c5dee959e4fa1a04c7e2a6a03a32f190ba45",
+  "_spec": "@types/ansicolors@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Benjamin Arthur Lupton",
+      "url": "https://github.com/balupton"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for ansicolors",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/ansicolors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/ansicolors"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "02406e86fc6bed5e00886bcd882a1392c7035ff669c633d4ee09f4f96b76573a",
+  "version": "0.0.33"
+}

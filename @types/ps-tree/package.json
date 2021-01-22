@@ -1,0 +1,52 @@
+{
+  "_from": "@types/ps-tree@ts4.1",
+  "_id": "@types/ps-tree@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-rm5GU5sefQpg2d/DQ+fMDZnl9aPiJjJ9FYA12isIocNTZqu9VDZRgCRBx3oYFEdmDpmPmY4hxxmY/+1a84Rtzg==",
+  "_location": "/@types/ps-tree",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/ps-tree@ts4.1",
+    "name": "@types/ps-tree",
+    "escapedName": "@types%2fps-tree",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/ps-tree/-/ps-tree-1.1.0.tgz",
+  "_shasum": "7e2034e8ccdc16f6b0ced7a88529ebcb3b1dc424",
+  "_spec": "@types/ps-tree@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Alessio Paccoia",
+      "url": "https://github.com/alessiopcc"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for ps-tree",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped.git#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/ps-tree",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.7",
+  "typesPublisherContentHash": "17c42c59382ca2290e04c0bc6f841819542ce594166dce1acf256fcbf3eb62f1",
+  "version": "1.1.0"
+}

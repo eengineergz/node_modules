@@ -1,0 +1,70 @@
+{
+  "_from": "@types/diff@ts4.1",
+  "_id": "@types/diff@5.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-jrm2K65CokCCX4NmowtA+MfXyuprZC13jbRuwprs6/04z/EcFg/MCwYdsHn+zgV4CQBiATiI7AEq7y1sZCtWKA==",
+  "_location": "/@types/diff",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/diff@ts4.1",
+    "name": "@types/diff",
+    "escapedName": "@types%2fdiff",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/diff/-/diff-5.0.0.tgz",
+  "_shasum": "eb71e94feae62548282c4889308a3dfb57e36020",
+  "_spec": "@types/diff@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "vvakame",
+      "url": "https://github.com/vvakame"
+    },
+    {
+      "name": "szdc",
+      "url": "https://github.com/szdc"
+    },
+    {
+      "name": "moc-yuto",
+      "url": "https://github.com/moc-yuto"
+    },
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    },
+    {
+      "name": "Piotr Błażejewicz",
+      "url": "https://github.com/peterblazejewicz"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for diff",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/diff",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/diff"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.3",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "febd52f60cc2cc67989982bf88c26bd396593c09311fa1717142e40225794666",
+  "version": "5.0.0"
+}

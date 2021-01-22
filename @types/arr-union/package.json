@@ -1,0 +1,52 @@
+{
+  "_from": "@types/arr-union@ts4.1",
+  "_id": "@types/arr-union@3.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-9sLjCJMRxfSchRA1D3SCdaIqnfnwPpywlgcEDbQg9W1w7FBGy3PMH/UfkqXWRd4Y8LDXVVZoKTGlu+pRDSqyEw==",
+  "_location": "/@types/arr-union",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/arr-union@ts4.1",
+    "name": "@types/arr-union",
+    "escapedName": "@types%2farr-union",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/arr-union/-/arr-union-3.1.0.tgz",
+  "_shasum": "cb65e0a818147d9397294549831adc001757249a",
+  "_spec": "@types/arr-union@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "mrmlnc",
+      "url": "https://github.com/mrmlnc"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for arr-union",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/arr-union",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "1e598d6b668f52ba0915578fc2e21f11ef2328e94a7560c1a505f7acee81355c",
+  "version": "3.1.0"
+}

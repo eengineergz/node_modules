@@ -1,0 +1,53 @@
+{
+  "_from": "@types/decode-uri-component@ts4.1",
+  "_id": "@types/decode-uri-component@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Sa61t51csZD7DzzzoYLXVmR/lJE6IXjTlflRQFOOCDw5nmmBQb2FZ5DCxl8sEYtAPPBHj//1jCbxFTu9wc8EZQ==",
+  "_location": "/@types/decode-uri-component",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/decode-uri-component@ts4.1",
+    "name": "@types/decode-uri-component",
+    "escapedName": "@types%2fdecode-uri-component",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/decode-uri-component/-/decode-uri-component-0.2.0.tgz",
+  "_shasum": "0660a5c96fdfefdd570840cc7aeb07293907106e",
+  "_spec": "@types/decode-uri-component@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for decode-uri-component",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/decode-uri-component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "35f44e295cd5172f101537d3414a169cc4b9a0a9ac7c0a8cd1663ab9bf22b88e",
+  "version": "0.2.0"
+}

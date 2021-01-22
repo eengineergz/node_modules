@@ -1,0 +1,51 @@
+{
+  "_from": "@types/number-is-nan@ts4.1",
+  "_id": "@types/number-is-nan@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-GpSribyukFrcUO/uFzgKXCWYQ8A=",
+  "_location": "/@types/number-is-nan",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/number-is-nan@ts4.1",
+    "name": "@types/number-is-nan",
+    "escapedName": "@types%2fnumber-is-nan",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/number-is-nan/-/number-is-nan-1.0.0.tgz",
+  "_shasum": "1a94ab89bcae905adc50efee17380a5c259843c0",
+  "_spec": "@types/number-is-nan@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "author": {
+    "name": "Mohamed Hegazy",
+    "email": "https://github.com/mhegazy"
+  },
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for number-is-nan",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/number-is-nan",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "131a5672bd5cacd99620c28b6354f34f38114ca2b8411fc970425cfb42fdbd89",
+  "version": "1.0.0"
+}

@@ -1,0 +1,55 @@
+{
+  "_from": "@types/eyes@ts4.1",
+  "_id": "@types/eyes@0.1.31",
+  "_inBundle": false,
+  "_integrity": "sha512-kKDgdUvHjcBVXyr3JW8xuvAbpL5e+2UKi7fru8s8OBvpZrxE0cx9uUKUBwk4dHvaA6zK03AiTKv0TDoKl21K+Q==",
+  "_location": "/@types/eyes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/eyes@ts4.1",
+    "name": "@types/eyes",
+    "escapedName": "@types%2feyes",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/eyes/-/eyes-0.1.31.tgz",
+  "_shasum": "a858c4fc784d0c42ee7d62fc5bc5d2a371b6f2b2",
+  "_spec": "@types/eyes@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "bryn austin bellomy",
+      "url": "https://github.com/brynbellomy"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for eyes",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/eyes",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "fb10c5069fb0281970aaba3195ff3f9c326bf077dc219e46e4c6bc719c4e4bb3",
+  "version": "0.1.31"
+}

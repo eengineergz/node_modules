@@ -1,0 +1,52 @@
+{
+  "_from": "@types/read-package-tree@ts4.1",
+  "_id": "@types/read-package-tree@5.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-3EdU+Kf9PEPdBVjFNgEZRAOsjWX2kEL5aQmeDnTC0M86RIdG6ad+ssxdbZygZUc7O4OHkWnTR4RLmxV0B6Iygg==",
+  "_location": "/@types/read-package-tree",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/read-package-tree@ts4.1",
+    "name": "@types/read-package-tree",
+    "escapedName": "@types%2fread-package-tree",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/read-package-tree/-/read-package-tree-5.2.0.tgz",
+  "_shasum": "43bde8f7100caea502f3b3ac7f41249ecef982e6",
+  "_spec": "@types/read-package-tree@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Melvin Groenhoff",
+      "url": "https://github.com/mgroenhoff"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for read-package-tree",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped.git#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/read-package-tree",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "c5344601f37f01ac7c7935bf7b023689c4ce7f92eaee4acfb7bb43ffde62f10c",
+  "version": "5.2.0"
+}

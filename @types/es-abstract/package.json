@@ -1,0 +1,60 @@
+{
+  "_from": "@types/es-abstract@ts4.1",
+  "_id": "@types/es-abstract@1.17.2",
+  "_inBundle": false,
+  "_integrity": "sha512-FWS0C3cpJV1I3JBv+EFbqebJadeWodMC+HTfC31WallK5nWQgA8YPOaV88pkUObw6lA0BIQPbbO4Fg+gs2ALxQ==",
+  "_location": "/@types/es-abstract",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/es-abstract@ts4.1",
+    "name": "@types/es-abstract",
+    "escapedName": "@types%2fes-abstract",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/es-abstract/-/es-abstract-1.17.2.tgz",
+  "_shasum": "472322e52c545709b47e9c9d286059785b103952",
+  "_spec": "@types/es-abstract@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    },
+    {
+      "name": "ExE Boss",
+      "url": "https://github.com/ExE-Boss"
+    }
+  ],
+  "dependencies": {
+    "@types/es-to-primitive": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for es-abstract",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/es-abstract",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/es-abstract"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "e743f9c14d50580a0f7f64726140e1192acc30e3611a638eb1c9ae9b2e987c21",
+  "version": "1.17.2"
+}

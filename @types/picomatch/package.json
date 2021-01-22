@@ -1,0 +1,54 @@
+{
+  "_from": "@types/picomatch@ts4.1",
+  "_id": "@types/picomatch@2.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-26/tQcDmJXYHiaWAAIjnTVL5nwrT+IVaqFZIbBImAuKk/r/j1r/1hmZ7uaOzG6IknqP3QHcNNQ6QO8Vp28lUoA==",
+  "_location": "/@types/picomatch",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/picomatch@ts4.1",
+    "name": "@types/picomatch",
+    "escapedName": "@types%2fpicomatch",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/picomatch/-/picomatch-2.2.1.tgz",
+  "_shasum": "f9e5a5e6ad03996832975ab7eadfa35791ca2a8f",
+  "_spec": "@types/picomatch@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Patrick",
+      "url": "https://github.com/Patcher56"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for picomatch",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/picomatch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/picomatch"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "12173c91f11ef757e67643c5b34ce321ab6b3536c9fe955cc195916ff0a95dc0",
+  "version": "2.2.1"
+}

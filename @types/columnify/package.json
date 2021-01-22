@@ -1,0 +1,54 @@
+{
+  "_from": "@types/columnify@ts4.1",
+  "_id": "@types/columnify@1.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-f39gUbf4NuSTVG9XEUJzYQ8L9e3l91jwywbJdU0fJixCRHKzQnyWxa9KfRPEuC3PhH5TIAi79kX2sAkXXSTB9Q==",
+  "_location": "/@types/columnify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/columnify@ts4.1",
+    "name": "@types/columnify",
+    "escapedName": "@types%2fcolumnify",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/columnify/-/columnify-1.5.0.tgz",
+  "_shasum": "94bb31f14c66bab6d968caa455ff13af1f0e7632",
+  "_spec": "@types/columnify@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Gary King",
+      "url": "https://github.com/garyking"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for columnify",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/columnify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/columnify"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.1",
+  "types": "index",
+  "typesPublisherContentHash": "f3ae775c8135e2ef656127c1e5d0725250b388c9d5554471b1705f35e6ef1c13",
+  "version": "1.5.0"
+}

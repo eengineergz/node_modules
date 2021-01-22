@@ -1,0 +1,53 @@
+{
+  "_from": "@types/npm-packlist@ts4.1",
+  "_id": "@types/npm-packlist@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-+0ZRUpPOs4Mvvwj/pftWb14fnPN/yS6nOp6HZFyIMDuUmyPtKXcO4/SPhyRGR6dUCAn1B3hHJozD/UCrU+Mmew==",
+  "_location": "/@types/npm-packlist",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/npm-packlist@ts4.1",
+    "name": "@types/npm-packlist",
+    "escapedName": "@types%2fnpm-packlist",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/npm-packlist/-/npm-packlist-1.1.1.tgz",
+  "_shasum": "b8bdb1e2910aa693ab9bf8339361b09c8d512ecd",
+  "_spec": "@types/npm-packlist@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Klaus Meinhardt",
+      "url": "https://github.com/ajafff"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for npm-packlist",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/npm-packlist",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.1",
+  "types": "index",
+  "typesPublisherContentHash": "ef6025e7b8d89df76280874697d5016e974fd25e2fb6cf79640310252666dd1a",
+  "version": "1.1.1"
+}

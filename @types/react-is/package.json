@@ -1,0 +1,64 @@
+{
+  "_from": "@types/react-is@ts4.1",
+  "_id": "@types/react-is@17.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-A0DQ1YWZ0RG2+PV7neAotNCIh8gZ3z7tQnDJyS2xRPDNtAtSPcJ9YyfMP8be36Ha0kQRzbZCrrTMznA4blqO5g==",
+  "_location": "/@types/react-is",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-is@ts4.1",
+    "name": "@types/react-is",
+    "escapedName": "@types%2freact-is",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-is/-/react-is-17.0.0.tgz",
+  "_shasum": "6b60190ae60591ae0c83d6f3854e61e08f5a7976",
+  "_spec": "@types/react-is@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Avi Vahl",
+      "url": "https://github.com/AviVahl"
+    },
+    {
+      "name": "Christian Chown",
+      "url": "https://github.com/christianchown"
+    },
+    {
+      "name": "Sebastian Silbermann",
+      "url": "https://github.com/eps1lon"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for react-is",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-is",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/react-is"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.3",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "876730e37f555febc2acf65ac273e1b0e949ab03a63e3a2d511b318d4a5ccc13",
+  "version": "17.0.0"
+}

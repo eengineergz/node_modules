@@ -1,0 +1,65 @@
+{
+  "_from": "@types/function-bind@ts4.1",
+  "_id": "@types/function-bind@1.1.6",
+  "_inBundle": false,
+  "_integrity": "sha512-xGb410emnIWftO5Mw6rer7z+fdSBZdey7vZ/R4fxmAx2KgZB+UO9G0wf1/FRtKl9QLGhidZQbbImFDPUobjxtQ==",
+  "_location": "/@types/function-bind",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/function-bind@ts4.1",
+    "name": "@types/function-bind",
+    "escapedName": "@types%2ffunction-bind",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/function-bind/-/function-bind-1.1.6.tgz",
+  "_shasum": "1983f4125366553642cf7be543d93e13c18c013e",
+  "_spec": "@types/function-bind@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "ExE Boss",
+      "url": "https://github.com/ExE-Boss"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for function-bind",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/function-bind",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/function-bind"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.3",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "2393397cbf63582b049d6cc6e533d1fb39b088fd0e49ed146d92a9074f6d0a70",
+  "typesVersions": {
+    "<=3.9": {
+      "*": [
+        "ts3.9/*"
+      ]
+    }
+  },
+  "version": "1.1.6"
+}

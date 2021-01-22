@@ -1,0 +1,54 @@
+{
+  "_from": "@types/xtend@ts4.1",
+  "_id": "@types/xtend@4.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-oM0rfS5+IDDHYaJPtO6ULb6xkoY/m010LQDKHXIxjAfMQrDqVozn+/MI7R8yUBf0UNvYnpFP8FbJoUcfTFa8HQ==",
+  "_location": "/@types/xtend",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/xtend@ts4.1",
+    "name": "@types/xtend",
+    "escapedName": "@types%2fxtend",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/xtend/-/xtend-4.0.3.tgz",
+  "_shasum": "51515d40ecbb1121f89fdbd733f735d0a04f47a7",
+  "_spec": "@types/xtend@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "rhysd",
+      "url": "https://rhysd.github.io"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for xtend",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/xtend",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/xtend"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "8fc9164593c91efdc1796c0bf6795b0dd9295b97dec93e2ad7fa43bb18c61e11",
+  "version": "4.0.3"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "types-registry@latest",
+  "_id": "types-registry@0.1.523",
+  "_inBundle": false,
+  "_integrity": "sha512-Sn4/PqWWqVp7jmWHsmgYOdr/0rHBs+CqPuNG1ZBwqYrf6jAmhSwS/ha6gX5+hhnWhSKFTPQhAcxVUdcUb4FsdA==",
+  "_location": "/types-registry",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "types-registry@latest",
+    "name": "types-registry",
+    "escapedName": "types-registry",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/types-registry/-/types-registry-0.1.523.tgz",
+  "_shasum": "9d2be2da75b2f6b1db51a6c4bc1a5ba72a4a7778",
+  "_spec": "types-registry@latest",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "author": {
+    "name": "Microsoft Corp."
+  },
+  "bugs": {
+    "url": "https://github.com/Microsoft/types-publisher/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A registry of TypeScript declaration file packages published within the @types scope.",
+  "homepage": "https://github.com/Microsoft/types-publisher#readme",
+  "keywords": [
+    "TypeScript",
+    "declaration",
+    "files",
+    "types",
+    "packages"
+  ],
+  "license": "MIT",
+  "name": "types-registry",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/types-publisher.git"
+  },
+  "typesPublisherContentHash": "2919bd089c691939fc08063e3014db4a1e52a6ad6edfef9119fc038732f1bc04",
+  "version": "0.1.523"
+}

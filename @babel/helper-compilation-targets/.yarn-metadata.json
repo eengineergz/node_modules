@@ -1,0 +1,56 @@
+{
+  "manifest": {
+    "name": "@babel/helper-compilation-targets",
+    "version": "7.12.5",
+    "author": {
+      "name": "The Babel Team",
+      "url": "https://babeljs.io/team"
+    },
+    "license": "MIT",
+    "description": "Engine compat data used in @babel/preset-env",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/babel/babel.git",
+      "directory": "packages/babel-helper-compilation-targets"
+    },
+    "main": "lib/index.js",
+    "exports": {
+      ".": "./lib/index.js"
+    },
+    "publishConfig": {
+      "access": "public"
+    },
+    "keywords": [
+      "babel",
+      "babel-plugin"
+    ],
+    "dependencies": {
+      "@babel/compat-data": "^7.12.5",
+      "@babel/helper-validator-option": "^7.12.1",
+      "browserslist": "^4.14.5",
+      "semver": "^5.5.0"
+    },
+    "peerDependencies": {
+      "@babel/core": "^7.0.0"
+    },
+    "devDependencies": {
+      "@babel/core": "7.12.3"
+    },
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-@babel-helper-compilation-targets-7.12.5-cb470c76198db6a24e9dbc8987275631e5d29831-integrity/node_modules/@babel/helper-compilation-targets/package.json",
+    "licenseText": "MIT License\n\nCopyright (c) 2014-present Sebastian McKenzie and other contributors\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.12.5.tgz#cb470c76198db6a24e9dbc8987275631e5d29831",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.12.5.tgz",
+    "hash": "cb470c76198db6a24e9dbc8987275631e5d29831",
+    "integrity": "sha512-+qH6NrscMolUlzOYngSBMIOQpKUGPPsc61Bu5W10mg84LxZ7cmvnBHzARKbDoFxVvqqAbj6Tg6N7bSrWSPXMyw==",
+    "registry": "npm",
+    "packageName": "@babel/helper-compilation-targets",
+    "cacheIntegrity": "sha512-+qH6NrscMolUlzOYngSBMIOQpKUGPPsc61Bu5W10mg84LxZ7cmvnBHzARKbDoFxVvqqAbj6Tg6N7bSrWSPXMyw== sha1-y0cMdhmNtqJOnbyJhydWMeXSmDE="
+  },
+  "registry": "npm",
+  "hash": "cb470c76198db6a24e9dbc8987275631e5d29831"
+}

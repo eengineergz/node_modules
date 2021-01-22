@@ -1,0 +1,51 @@
+{
+  "_from": "@types/prelude-ls@ts4.1",
+  "_id": "@types/prelude-ls@1.1.29",
+  "_inBundle": false,
+  "_integrity": "sha1-TZkTyUuu7zCUV9Zw1d3v+W/Gtag=",
+  "_location": "/@types/prelude-ls",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/prelude-ls@ts4.1",
+    "name": "@types/prelude-ls",
+    "escapedName": "@types%2fprelude-ls",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/prelude-ls/-/prelude-ls-1.1.29.tgz",
+  "_shasum": "4d9913c94baeef309457d670d5ddeff96fc6b5a8",
+  "_spec": "@types/prelude-ls@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "author": {
+    "name": "Aya Morisawa",
+    "email": "https://github.com/AyaMorisawa"
+  },
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for prelude.ls 1.1.1",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/prelude-ls",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "5d74e5e51443d9467bc419f76c2c8a87af234315b5f1c4df66373badab1689e9",
+  "typings": "index.d.ts",
+  "version": "1.1.29"
+}

@@ -1,0 +1,52 @@
+{
+  "_from": "@types/caller@ts4.1",
+  "_id": "@types/caller@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zbyHsdYFn5gCQFn+fF7Ad9En1fJdj3o0YP7DPTD9J3at4M9auNfoLrVYH4hFdLfFDhnB0kTZw3RAKp4iD516uw==",
+  "_location": "/@types/caller",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/caller@ts4.1",
+    "name": "@types/caller",
+    "escapedName": "@types%2fcaller",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/caller/-/caller-1.0.0.tgz",
+  "_shasum": "21044c8254e95e57c86a2079bd99430d5f892c62",
+  "_spec": "@types/caller@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ignocide",
+      "url": "https://github.com/ignocide"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for caller",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/caller",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "3588b0f6c897092a505a2284d068c629b171cf9554e993c822b8025691123d27",
+  "version": "1.0.0"
+}

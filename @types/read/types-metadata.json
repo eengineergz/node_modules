@@ -1,0 +1,25 @@
+{
+    "authors": "Tim JK <https://github.com/timjk>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "0",
+    "libraryName": "read",
+    "typingsPackageName": "read",
+    "projectName": "https://github.com/isaacs/read",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [
+        "Read"
+    ],
+    "declaredModules": [
+        "read"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "af4b931663336355b274ac61f67df820f75bb7a436c7f39277e322673af205cc"
+}

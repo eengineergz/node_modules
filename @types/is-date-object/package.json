@@ -1,0 +1,58 @@
+{
+  "_from": "@types/is-date-object@ts4.1",
+  "_id": "@types/is-date-object@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-zEWbipPORyh8Q2NNo1+hTplGBs1RjVN+H90nHd++OlpCqMIk1s0FdKiLd03DOjOMeSEsbY/n4IjxxP44fVvxYw==",
+  "_location": "/@types/is-date-object",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/is-date-object@ts4.1",
+    "name": "@types/is-date-object",
+    "escapedName": "@types%2fis-date-object",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/is-date-object/-/is-date-object-1.0.1.tgz",
+  "_shasum": "6507fcf2193c2e33738b3eb27414b8da6555b0c0",
+  "_spec": "@types/is-date-object@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Adam Zerella",
+      "url": "https://github.com/adamzerella"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for is-date-object",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/is-date-object",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/is-date-object"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "c9ea4d1f33ac5a3fd977e5a413fc80df59652c8a852879be297b4a2146c3a3a8",
+  "version": "1.0.1"
+}

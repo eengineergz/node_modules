@@ -1,0 +1,54 @@
+{
+  "_from": "@types/prettyjson@ts4.1",
+  "_id": "@types/prettyjson@0.0.29",
+  "_inBundle": false,
+  "_integrity": "sha512-Zu4jAKE46yc6R8JrVkCBWbXhs18dUgI/JlbID4jziFgUBgEdAHxFekR5TlEnk9phHdGE80QlCznRBaxlk0rl7w==",
+  "_location": "/@types/prettyjson",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/prettyjson@ts4.1",
+    "name": "@types/prettyjson",
+    "escapedName": "@types%2fprettyjson",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/prettyjson/-/prettyjson-0.0.29.tgz",
+  "_shasum": "3d9176d583e1839aa5c83b088487003652ce38ff",
+  "_spec": "@types/prettyjson@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Wael BEN ZID EL GUEBSI",
+      "url": "https://github.com/benzid-wael/"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for prettyjson",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/prettyjson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/prettyjson"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "e56512f180bd6ec3a635ab7cfe0ab0ee90ddcc6d71c523bc313dd30504936de9",
+  "version": "0.0.29"
+}

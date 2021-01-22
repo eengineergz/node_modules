@@ -1,0 +1,51 @@
+{
+  "_from": "@types/path-is-absolute@ts4.1",
+  "_id": "@types/path-is-absolute@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-r2QvdMghYRPRfDAVS4MVOst1glc=",
+  "_location": "/@types/path-is-absolute",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/path-is-absolute@ts4.1",
+    "name": "@types/path-is-absolute",
+    "escapedName": "@types%2fpath-is-absolute",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/path-is-absolute/-/path-is-absolute-1.0.0.tgz",
+  "_shasum": "af642f74c8216113d17c30154b83153acb758257",
+  "_spec": "@types/path-is-absolute@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "author": {
+    "name": "Mohamed Hegazy",
+    "email": "https://github.com/mhegazy"
+  },
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for path-is-absolute",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/path-is-absolute",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "0165f2dd067d29766f802f07ca76555555aee613dd411f2cebba16527b92b6e5",
+  "version": "1.0.0"
+}

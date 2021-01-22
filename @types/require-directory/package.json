@@ -1,0 +1,56 @@
+{
+  "_from": "@types/require-directory@ts4.1",
+  "_id": "@types/require-directory@2.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-4TTBpntB/k5BzK43/FcfU1BoTUkbXyC2Xt3cujMf0vV28d9lLO8AlxamICfHQ7XtdHt5SWdnUotDzoXvn4tRBA==",
+  "_location": "/@types/require-directory",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/require-directory@ts4.1",
+    "name": "@types/require-directory",
+    "escapedName": "@types%2frequire-directory",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/require-directory/-/require-directory-2.1.1.tgz",
+  "_shasum": "c5d7676694c61309cd7d72404276bb25c46be091",
+  "_spec": "@types/require-directory@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ihor Chulinda",
+      "url": "https://github.com/Igmat"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for require-directory",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/require-directory",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/require-directory"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "types": "index",
+  "typesPublisherContentHash": "fc0f605c3db9495fc028a789a16671fd0e63a3f16e962d7a9a81deb3d285eb46",
+  "version": "2.1.1"
+}

@@ -1,0 +1,56 @@
+{
+  "_from": "@types/parse-conflict-json@ts4.1",
+  "_id": "@types/parse-conflict-json@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-2nuFncBaedcZz+dh6oLbLtpYkaRwP/2jcJmlauA6uD16WCjKgyVYQ8lchun33tdSpfcPK5QD9uJdbRWjUGqEiQ==",
+  "_location": "/@types/parse-conflict-json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/parse-conflict-json@ts4.1",
+    "name": "@types/parse-conflict-json",
+    "escapedName": "@types%2fparse-conflict-json",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/parse-conflict-json/-/parse-conflict-json-1.1.0.tgz",
+  "_shasum": "bab0448cd0eda95bfa12b2dc2ddaea8871671860",
+  "_spec": "@types/parse-conflict-json@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Piotr Błażejewicz",
+      "url": "https://github.com/peterblazejewicz"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for parse-conflict-json",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/parse-conflict-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/parse-conflict-json"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.1",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "82eb7e2e2375e0757fd68f22441eb1ae76696d766900b52d73f30e5341a278ae",
+  "version": "1.1.0"
+}

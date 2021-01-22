@@ -1,0 +1,54 @@
+{
+  "_from": "@types/buffer-from@ts4.1",
+  "_id": "@types/buffer-from@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-BLFpLBcN+RPKUsFxqRkMiwqTOOdi+TrKr5OpLJ9qCnUdSxS6S80+QRX/mIhfR66u0Ykc4QTkReaejOM2ILh+9Q==",
+  "_location": "/@types/buffer-from",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/buffer-from@ts4.1",
+    "name": "@types/buffer-from",
+    "escapedName": "@types%2fbuffer-from",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/buffer-from/-/buffer-from-1.1.0.tgz",
+  "_shasum": "fed6287e90fe524dc2b412e0fbc2222c1889c21f",
+  "_spec": "@types/buffer-from@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Nat Burns",
+      "url": "https://github.com/burnnat"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for buffer-from",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/buffer-from",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "c77b086d6cd78ec04097ec7d5e412d892d184c62f0716a47c452fa834959899f",
+  "version": "1.1.0"
+}

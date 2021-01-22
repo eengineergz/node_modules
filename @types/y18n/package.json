@@ -1,0 +1,54 @@
+{
+  "_from": "@types/y18n@ts4.1",
+  "_id": "@types/y18n@4.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-pf+872F4Rxv9LfdsIcWyREfXranwQGEp45RxR1jjgXehVLvoVf2r0kZWKzEWOuOoLlCLmRuVCU5zfRPGpDVvKw==",
+  "_location": "/@types/y18n",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/y18n@ts4.1",
+    "name": "@types/y18n",
+    "escapedName": "@types%2fy18n",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/y18n/-/y18n-4.0.0.tgz",
+  "_shasum": "b203524486723b94bcf193186dd5e975dbc4bc6d",
+  "_spec": "@types/y18n@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Adam Zerella",
+      "url": "https://github.com/adamzerella"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for y18n",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/y18n",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/y18n"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.2",
+  "types": "index",
+  "typesPublisherContentHash": "4a6b8b583ab99aa7b899815648d529ca341332b97ded2cf2013a976c32486bf1",
+  "version": "4.0.0"
+}

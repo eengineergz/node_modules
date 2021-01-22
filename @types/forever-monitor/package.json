@@ -1,0 +1,60 @@
+{
+  "_from": "@types/forever-monitor@ts4.1",
+  "_id": "@types/forever-monitor@1.7.5",
+  "_inBundle": false,
+  "_integrity": "sha512-hKkcMhxEfq1otPVf4z8P4OomZRzt5NC0lYftQDNJvuqLB5n5J/X9CSXDgvQlpBeQTwMAGdGiWwn+aKjOLlWVww==",
+  "_location": "/@types/forever-monitor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/forever-monitor@ts4.1",
+    "name": "@types/forever-monitor",
+    "escapedName": "@types%2fforever-monitor",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/forever-monitor/-/forever-monitor-1.7.5.tgz",
+  "_shasum": "57e58b645f0d3258589c59bdb68d687216748293",
+  "_spec": "@types/forever-monitor@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Shun Takahashi",
+      "url": "https://github.com/shuntksh"
+    },
+    {
+      "name": "Will Boyce",
+      "url": "https://github.com/wrboyce"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for forever-monitor",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/forever-monitor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/forever-monitor"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "cdef3b2ceae844bb22ea601e106e983c7a6e1e7bd0f3f8c41135249ab4933e40",
+  "version": "1.7.5"
+}

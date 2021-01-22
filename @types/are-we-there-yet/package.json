@@ -1,0 +1,55 @@
+{
+  "_from": "@types/are-we-there-yet@ts4.1",
+  "_id": "@types/are-we-there-yet@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Xwkh9XZer1MJiQDBVjL8XxujIB24zSVUExKQHLF4ha2Gl8I8LvEzqO5tROPwClbwvSTAKtvRuzrxoJTRDaPTTg==",
+  "_location": "/@types/are-we-there-yet",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/are-we-there-yet@ts4.1",
+    "name": "@types/are-we-there-yet",
+    "escapedName": "@types%2fare-we-there-yet",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/are-we-there-yet/-/are-we-there-yet-1.1.0.tgz",
+  "_shasum": "627d491fad8cd4c6b555df350a4b5e2e174799c3",
+  "_spec": "@types/are-we-there-yet@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Brian J Brennan",
+      "url": "https://github.com/brianloveswords"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for are-we-there-yet",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/are-we-there-yet",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "7830cb68232c222272ac8b18f6cfb8be3cd930b4e27bc12eaaa973c10b6f5c68",
+  "version": "1.1.0"
+}

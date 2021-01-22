@@ -1,0 +1,54 @@
+{
+  "_from": "@types/osenv@ts4.1",
+  "_id": "@types/osenv@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-HGcpR/oVBLZBZbPljg1k8fwmMsGsH3pohCxkUlibJVC9aCl+1T6LWN+rQMfgZ9zY7eIX7u9dJi5NjpJgH1pmXg==",
+  "_location": "/@types/osenv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/osenv@ts4.1",
+    "name": "@types/osenv",
+    "escapedName": "@types%2fosenv",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/osenv/-/osenv-0.1.0.tgz",
+  "_shasum": "73f1baf35c920e8c4addcb59c8e85d58113151bb",
+  "_spec": "@types/osenv@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Adam Zerella",
+      "url": "https://github.com/adamzerella"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for osenv",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/osenv",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/osenv"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "16e2169ef613945ac033aa11ac644396240796e3b7fb8947f12951968aa842c0",
+  "version": "0.1.0"
+}

@@ -1,0 +1,52 @@
+{
+  "_from": "@types/is-callable@ts4.1",
+  "_id": "@types/is-callable@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ClyLIyz53AhOu68i8xrY+EcD+hKPjz/cFUJqPMULEUKJ+iL1xRYsgV7Q0Yy6qrLSJ76sTV9lc4hbCsoLZm68xg==",
+  "_location": "/@types/is-callable",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/is-callable@ts4.1",
+    "name": "@types/is-callable",
+    "escapedName": "@types%2fis-callable",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/is-callable/-/is-callable-1.1.0.tgz",
+  "_shasum": "35f1a5576e2218a8566e7afda6f917c8c9d39803",
+  "_spec": "@types/is-callable@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Daniel",
+      "url": "https://github.com/nieltg"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for is-callable",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/is-callable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "9849564d9d4ce0072a58e1157f9f2dda23a20b6c12b40fd8171635cb29655a18",
+  "version": "1.1.0"
+}

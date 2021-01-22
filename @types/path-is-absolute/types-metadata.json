@@ -1,0 +1,22 @@
+{
+    "authors": "Mohamed Hegazy <https://github.com/mhegazy>",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": 1,
+    "libraryMinorVersion": 0,
+    "typeScriptVersion": "2.0",
+    "libraryName": "path-is-absolute",
+    "typingsPackageName": "path-is-absolute",
+    "projectName": "https://github.com/sindresorhus/path-is-absolute#readme",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "master",
+    "globals": [],
+    "declaredModules": [
+        "path-is-absolute"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "0165f2dd067d29766f802f07ca76555555aee613dd411f2cebba16527b92b6e5"
+}

@@ -1,0 +1,62 @@
+{
+  "_from": "@types/object.getownpropertydescriptors@ts4.1",
+  "_id": "@types/object.getownpropertydescriptors@2.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-+cf/E2mOv4k9FZzMMiqe3RPrSPZrJFt/8hfZcEQBnuAd2I0kdG+TKyEc4Vopl56ep2zhRE67J/ItA9FbOCTQxw==",
+  "_location": "/@types/object.getownpropertydescriptors",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/object.getownpropertydescriptors@ts4.1",
+    "name": "@types/object.getownpropertydescriptors",
+    "escapedName": "@types%2fobject.getownpropertydescriptors",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/object.getownpropertydescriptors/-/object.getownpropertydescriptors-2.1.1.tgz",
+  "_shasum": "1aca3462dc725d7c2cf4ad6d5c4a9ae44e7cbe68",
+  "_spec": "@types/object.getownpropertydescriptors@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Vitor Luiz Cavalcanti",
+      "url": "https://github.com/VitorLuizC"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    },
+    {
+      "name": "ExE Boss",
+      "url": "https://github.com/ExE-Boss"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for object.getownpropertydescriptors",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/object.getownpropertydescriptors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/object.getownpropertydescriptors"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "4a333d07e52cc182eb17613d8145eeb65fe419b921ad46015e3e16bd319ddf4b",
+  "version": "2.1.1"
+}

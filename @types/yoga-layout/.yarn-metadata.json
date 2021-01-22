@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "name": "@types/yoga-layout",
+    "version": "1.9.2",
+    "description": "TypeScript definitions for yoga-layout",
+    "license": "MIT",
+    "contributors": [
+      {
+        "name": "tnobody",
+        "url": "https://github.com/tnobody"
+      }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "directory": "types/yoga-layout"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "1586c0ef103d4675788030a0a69368315d04e2bfdba0e91ed047dbff74d189ba",
+    "typeScriptVersion": "3.0",
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-@types-yoga-layout-1.9.2-efaf9e991a7390dc081a0b679185979a83a9639a-integrity/node_modules/@types/yoga-layout/package.json",
+    "readmeFilename": "README.md",
+    "readme": "# Installation\n> `npm install --save @types/yoga-layout`\n\n# Summary\nThis package contains type definitions for yoga-layout (https://github.com/facebook/yoga#readme).\n\n# Details\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/yoga-layout.\n\n### Additional Details\n * Last updated: Sun, 17 May 2020 16:19:59 GMT\n * Dependencies: none\n * Global values: none\n\n# Credits\nThese definitions were written by [tnobody](https://github.com/tnobody).\n",
+    "licenseText": "    MIT License\n\n    Copyright (c) Microsoft Corporation.\n\n    Permission is hereby granted, free of charge, to any person obtaining a copy\n    of this software and associated documentation files (the \"Software\"), to deal\n    in the Software without restriction, including without limitation the rights\n    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n    copies of the Software, and to permit persons to whom the Software is\n    furnished to do so, subject to the following conditions:\n\n    The above copyright notice and this permission notice shall be included in all\n    copies or substantial portions of the Software.\n\n    THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n    SOFTWARE\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/@types/yoga-layout/-/yoga-layout-1.9.2.tgz#efaf9e991a7390dc081a0b679185979a83a9639a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/@types/yoga-layout/-/yoga-layout-1.9.2.tgz",
+    "hash": "efaf9e991a7390dc081a0b679185979a83a9639a",
+    "integrity": "sha512-S9q47ByT2pPvD65IvrWp7qppVMpk9WGMbVq9wbWZOHg6tnXSD4vyhao6nOSBwwfDdV2p3Kx9evA9vI+XWTfDvw==",
+    "registry": "npm",
+    "packageName": "@types/yoga-layout",
+    "cacheIntegrity": "sha512-S9q47ByT2pPvD65IvrWp7qppVMpk9WGMbVq9wbWZOHg6tnXSD4vyhao6nOSBwwfDdV2p3Kx9evA9vI+XWTfDvw== sha1-76+emRpzkNwIGgtnkYWXmoOpY5o="
+  },
+  "registry": "npm",
+  "hash": "efaf9e991a7390dc081a0b679185979a83a9639a"
+}

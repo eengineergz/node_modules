@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "name": "@types/graceful-fs",
+    "version": "4.1.4",
+    "description": "TypeScript definitions for graceful-fs",
+    "license": "MIT",
+    "contributors": [
+      {
+        "name": "Bart van der Schoor",
+        "url": "https://github.com/Bartvds"
+      },
+      {
+        "name": "BendingBender",
+        "url": "https://github.com/BendingBender"
+      }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "directory": "types/graceful-fs"
+    },
+    "scripts": {},
+    "dependencies": {
+      "@types/node": "*"
+    },
+    "typesPublisherContentHash": "056a1225be9e1e75f3159d214868c57eeb9f4c81385dcac88a3c56971b088b9d",
+    "typeScriptVersion": "3.2",
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-@types-graceful-fs-4.1.4-4ff9f641a7c6d1a3508ff88bc3141b152772e753-integrity/node_modules/@types/graceful-fs/package.json",
+    "readmeFilename": "README.md",
+    "readme": "# Installation\n> `npm install --save @types/graceful-fs`\n\n# Summary\nThis package contains type definitions for graceful-fs (https://github.com/isaacs/node-graceful-fs).\n\n# Details\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/graceful-fs.\n\n### Additional Details\n * Last updated: Wed, 21 Oct 2020 21:01:39 GMT\n * Dependencies: [@types/node](https://npmjs.com/package/@types/node)\n * Global values: none\n\n# Credits\nThese definitions were written by [Bart van der Schoor](https://github.com/Bartvds), and [BendingBender](https://github.com/BendingBender).\n",
+    "licenseText": "    MIT License\n\n    Copyright (c) Microsoft Corporation.\n\n    Permission is hereby granted, free of charge, to any person obtaining a copy\n    of this software and associated documentation files (the \"Software\"), to deal\n    in the Software without restriction, including without limitation the rights\n    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n    copies of the Software, and to permit persons to whom the Software is\n    furnished to do so, subject to the following conditions:\n\n    The above copyright notice and this permission notice shall be included in all\n    copies or substantial portions of the Software.\n\n    THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n    SOFTWARE\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/@types/graceful-fs/-/graceful-fs-4.1.4.tgz#4ff9f641a7c6d1a3508ff88bc3141b152772e753",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/@types/graceful-fs/-/graceful-fs-4.1.4.tgz",
+    "hash": "4ff9f641a7c6d1a3508ff88bc3141b152772e753",
+    "integrity": "sha512-mWA/4zFQhfvOA8zWkXobwJvBD7vzcxgrOQ0J5CH1votGqdq9m7+FwtGaqyCZqC3NyyBkc9z4m+iry4LlqcMWJg==",
+    "registry": "npm",
+    "packageName": "@types/graceful-fs",
+    "cacheIntegrity": "sha512-mWA/4zFQhfvOA8zWkXobwJvBD7vzcxgrOQ0J5CH1votGqdq9m7+FwtGaqyCZqC3NyyBkc9z4m+iry4LlqcMWJg== sha1-T/n2QafG0aNQj/iLwxQbFSdy51M="
+  },
+  "registry": "npm",
+  "hash": "4ff9f641a7c6d1a3508ff88bc3141b152772e753"
+}

@@ -1,0 +1,62 @@
+{
+  "_from": "@types/which@ts4.1",
+  "_id": "@types/which@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-JHTNOEpZnACQdsTojWggn+SQ8IucfqEhtz7g8Z0G67WdSj4x3F0X5I2c/CVcl8z/QukGrIHeQ/N49v1au74XFQ==",
+  "_location": "/@types/which",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/which@ts4.1",
+    "name": "@types/which",
+    "escapedName": "@types%2fwhich",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/which/-/which-2.0.0.tgz",
+  "_shasum": "446d35586611dee657120de8e0457382a658fc25",
+  "_spec": "@types/which@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "vvakame",
+      "url": "https://github.com/vvakame"
+    },
+    {
+      "name": "cspotcode",
+      "url": "https://github.com/cspotcode"
+    },
+    {
+      "name": "Piotr Błażejewicz",
+      "url": "https://github.com/peterblazejewicz"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for which",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/which",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/which"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.3",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "0bb8b79ff64482aff772663fa8badc477ebd7ddcfe8d1fbaf074d33dba5b0c75",
+  "version": "2.0.0"
+}

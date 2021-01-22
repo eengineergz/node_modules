@@ -1,0 +1,60 @@
+{
+  "_from": "@types/estraverse@ts4.1",
+  "_id": "@types/estraverse@5.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-vH2ItsZq47KprWHdv8OMjlfpygPHp1P7X4zuJuTghXldyezatpaotNSujld/HNsxh9TUS7+JRB0HEldkv67qaw==",
+  "_location": "/@types/estraverse",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/estraverse@ts4.1",
+    "name": "@types/estraverse",
+    "escapedName": "@types%2festraverse",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/estraverse/-/estraverse-5.1.0.tgz",
+  "_shasum": "7a16cf8a8ee7764c05ccef3b2701bbcde6d5d0ae",
+  "_spec": "@types/estraverse@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Sanex3339",
+      "url": "https://github.com/sanex3339"
+    },
+    {
+      "name": "Jason Kwok",
+      "url": "https://github.com/JasonHK"
+    }
+  ],
+  "dependencies": {
+    "@types/estree": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for estraverse",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/estraverse",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/estraverse"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "71eecedf27be56d94f96022b4ba2a4d33a31a3b14bb97e86ba1552517dd74562",
+  "version": "5.1.0"
+}

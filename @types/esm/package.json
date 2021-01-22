@@ -1,0 +1,56 @@
+{
+  "_from": "@types/esm@ts4.1",
+  "_id": "@types/esm@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-aXemgVPnF1s0PQin04Ei8zTWaNwUdc4pmhZDg8LBW6QEl9kBWVItAUOLGUY5H5xduAmbL1pLGH1X/PN0+4R9tg==",
+  "_location": "/@types/esm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/esm@ts4.1",
+    "name": "@types/esm",
+    "escapedName": "@types%2fesm",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/esm/-/esm-3.2.0.tgz",
+  "_shasum": "f53dbded33cc1cef95645ebbf287aa3b3742e103",
+  "_spec": "@types/esm@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Richie Bendall",
+      "url": "https://github.com/Richienb"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for esm",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/esm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/esm"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "a890f52a7744915337d76b362e18c1dc8ccf9ffc7b535d8eb0db596a6e81c368",
+  "version": "3.2.0"
+}

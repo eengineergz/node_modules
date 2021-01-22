@@ -1,0 +1,59 @@
+{
+  "_from": "@types/es-to-primitive@ts4.1",
+  "_id": "@types/es-to-primitive@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-OEIG0RtRyqEamRNPWbFvrvuZGVBDJfQlmpmpPM9zE84MNstvqFvAsltR6BmLOKke4GTbLYhRwtreiFYaYodqmQ==",
+  "_location": "/@types/es-to-primitive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/es-to-primitive@ts4.1",
+    "name": "@types/es-to-primitive",
+    "escapedName": "@types%2fes-to-primitive",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER",
+    "/@types/es-abstract"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/es-to-primitive/-/es-to-primitive-1.2.4.tgz",
+  "_shasum": "7e39bb76b76c46ad366a7605adb68a1f2cbcd9fe",
+  "_spec": "@types/es-to-primitive@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "ExE Boss",
+      "url": "https://github.com/ExE-Boss"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for es-to-primitive",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/es-to-primitive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/es-to-primitive"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.2",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "9663f290bf4fa8b02da9e69cf4c2aa3bf4bbe546d871a8c9586a1cb09193808c",
+  "version": "1.2.4"
+}

@@ -1,0 +1,56 @@
+{
+  "_from": "@types/kind-of@ts4.1",
+  "_id": "@types/kind-of@6.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OBts6MHCrq558cvND5nsWhoThwJaNu5lmGnSp3H0gFzQQc5QYM9p7HajIdS+2bgDquGX1qLZCPlyuYSxMDffAg==",
+  "_location": "/@types/kind-of",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/kind-of@ts4.1",
+    "name": "@types/kind-of",
+    "escapedName": "@types%2fkind-of",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/kind-of/-/kind-of-6.0.0.tgz",
+  "_shasum": "593c38a268b203a9b736a1c3a32e902a91b6db24",
+  "_spec": "@types/kind-of@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Claas Ahlrichs",
+      "url": "https://github.com/claasahl"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for kind-of",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/kind-of",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/kind-of"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "131e97cc6357c3473f4eebce109e3486a3bcb62012c933ebac9d04fb72cb4f42",
+  "version": "6.0.0"
+}

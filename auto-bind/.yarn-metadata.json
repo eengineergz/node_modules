@@ -1,0 +1,69 @@
+{
+  "manifest": {
+    "name": "auto-bind",
+    "version": "4.0.0",
+    "description": "Automatically bind methods to their class instance",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sindresorhus/auto-bind.git"
+    },
+    "funding": "https://github.com/sponsors/sindresorhus",
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "sindresorhus.com"
+    },
+    "engines": {
+      "node": ">=8"
+    },
+    "scripts": {
+      "test": "xo && ava && tsd"
+    },
+    "files": [
+      "index.js",
+      "index.d.ts",
+      "react.js",
+      "react.d.ts"
+    ],
+    "keywords": [
+      "auto",
+      "bind",
+      "class",
+      "methods",
+      "method",
+      "automatically",
+      "prototype",
+      "instance",
+      "function",
+      "this",
+      "self",
+      "react",
+      "component"
+    ],
+    "devDependencies": {
+      "@types/react": "^16.9.9",
+      "ava": "^2.4.0",
+      "tsd": "^0.11.0",
+      "xo": "^0.25.3"
+    },
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-auto-bind-4.0.0-e3589fc6c2da8f7ca43ba9f84fa52a744fc997fb-integrity/node_modules/auto-bind/package.json",
+    "readmeFilename": "readme.md",
+    "readme": "# auto-bind [![Build Status](https://travis-ci.org/sindresorhus/auto-bind.svg?branch=master)](https://travis-ci.org/sindresorhus/auto-bind)\n\n> Automatically bind methods to their class instance\n\nIt also correctly binds inherited properties.\n\n## Install\n\n```\n$ npm install auto-bind\n```\n\n## Usage\n\n```js\nconst autoBind = require('auto-bind');\n\nclass Unicorn {\n\tconstructor(name) {\n\t\tthis.name = name;\n\t\tautoBind(this);\n\t}\n\n\tmessage() {\n\t\treturn `${this.name} is awesome!`;\n\t}\n}\n\nconst unicorn = new Unicorn('Rainbow');\n\n// Grab the method off the class instance\nconst message = unicorn.message;\n\n// Still bound to the class instance\nmessage();\n//=> 'Rainbow is awesome!'\n\n// Without `autoBind(this)`, the above would have resulted in\nmessage();\n//=> Error: Cannot read property 'name' of undefined\n```\n\n## API\n\n### autoBind(self, options?)\n\nBind methods in `self` to their class instance.\n\nReturns the `self` object.\n\n#### self\n\nType: `object`\n\nObject with methods to bind.\n\n#### options\n\nType: `object`\n\n##### include\n\nType: `Array<string | RegExp>`\n\nBind only the given methods.\n\n##### exclude\n\nType: `Array<string | RegExp>`\n\nBind methods except for the given methods.\n\n### React\n\nSame as `autoBind`, but excludes the default [React component methods](https://reactjs.org/docs/react-component.html).\n\n```js\nconst autoBindReact = require('auto-bind/react');\n\nclass Foo extends React.Component {\n\tconstructor(props) {\n\t\tsuper(props);\n\t\tautoBindReact(this);\n\t}\n\n\t// …\n}\n```\n\n## Related\n\n- [bind-methods](https://github.com/sindresorhus/bind-methods) - Bind all methods in an object to itself or a specified context\n",
+    "licenseText": "MIT License\n\nCopyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/auto-bind/-/auto-bind-4.0.0.tgz#e3589fc6c2da8f7ca43ba9f84fa52a744fc997fb",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/auto-bind/-/auto-bind-4.0.0.tgz",
+    "hash": "e3589fc6c2da8f7ca43ba9f84fa52a744fc997fb",
+    "integrity": "sha512-Hdw8qdNiqdJ8LqT0iK0sVzkFbzg6fhnQqqfWhBDxcHZvU75+B+ayzTy8x+k5Ix0Y92XOhOUlx74ps+bA6BeYMQ==",
+    "registry": "npm",
+    "packageName": "auto-bind",
+    "cacheIntegrity": "sha512-Hdw8qdNiqdJ8LqT0iK0sVzkFbzg6fhnQqqfWhBDxcHZvU75+B+ayzTy8x+k5Ix0Y92XOhOUlx74ps+bA6BeYMQ== sha1-41ifxsLaj3ykO6n4T6UqdE/Jl/s="
+  },
+  "registry": "npm",
+  "hash": "e3589fc6c2da8f7ca43ba9f84fa52a744fc997fb"
+}

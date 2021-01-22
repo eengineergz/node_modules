@@ -1,0 +1,53 @@
+{
+  "_from": "@types/urix@ts4.1",
+  "_id": "@types/urix@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-0w4peLiI1l0PvzQPas0NkUCbXEzoJRkp05W6ikUvXDGLFsyYo/uQa6dXWHeDcBb2mAFZFja2hh7i4IfjJ5Jq1A==",
+  "_location": "/@types/urix",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/urix@ts4.1",
+    "name": "@types/urix",
+    "escapedName": "@types%2furix",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/urix/-/urix-0.1.0.tgz",
+  "_shasum": "dc29d433e4e57d0c9e1e7eb2f447daf00e08ae14",
+  "_spec": "@types/urix@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for urix",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/urix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "0d06b1fd869d7f1f59c9eb349f8c0e83c27efcc2af5e797fb5e12cbb805e6d04",
+  "version": "0.1.0"
+}

@@ -1,0 +1,111 @@
+{
+  "manifest": {
+    "name": "ink-spinner",
+    "version": "3.1.0",
+    "description": "Spinner component for Ink",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vadimdemedes/ink-spinner.git"
+    },
+    "author": {
+      "name": "Vadim Demedes",
+      "email": "vdemedes@gmail.com",
+      "url": "github.com/vadimdemedes"
+    },
+    "main": "build/index.js",
+    "types": "index.d.ts",
+    "engines": {
+      "node": ">=8"
+    },
+    "scripts": {
+      "pretest": "npm run build",
+      "test": "tsc --noEmit --jsx react --module commonjs index.test-d.tsx && xo && ava",
+      "build": "babel src --out-dir=build",
+      "prepare": "npm run build"
+    },
+    "files": [
+      "build",
+      "index.d.ts"
+    ],
+    "keywords": [
+      "ink",
+      "progress",
+      "spinner",
+      "loader",
+      "loading",
+      "component",
+      "jsx",
+      "react"
+    ],
+    "dependencies": {
+      "cli-spinners": "^1.0.0",
+      "prop-types": "^15.5.10"
+    },
+    "devDependencies": {
+      "@ava/babel": "^1.0.1",
+      "@babel/cli": "^7.2.3",
+      "@babel/core": "^7.3.3",
+      "@babel/plugin-proposal-class-properties": "^7.3.3",
+      "@babel/preset-react": "^7.0.0",
+      "@babel/register": "^7.10.3",
+      "ava": "^3.9.0",
+      "babel-eslint": "^10.1.0",
+      "delay": "^4.1.0",
+      "eslint-config-xo-react": "^0.23.0",
+      "eslint-plugin-react": "^7.20.0",
+      "eslint-plugin-react-hooks": "^4.0.4",
+      "ink": "^2.0.0",
+      "ink-testing-library": "^1.0.0",
+      "react": "^16.8.2",
+      "typescript": "^3.9.5",
+      "xo": "^0.32.0"
+    },
+    "peerDependencies": {
+      "react": "^16.8.2",
+      "ink": "^2.0.0"
+    },
+    "babel": {
+      "plugins": [
+        "@babel/plugin-proposal-class-properties"
+      ],
+      "presets": [
+        "@babel/preset-react"
+      ]
+    },
+    "ava": {
+      "babel": true,
+      "require": [
+        "@babel/register"
+      ]
+    },
+    "xo": {
+      "parser": "babel-eslint",
+      "extends": [
+        "xo-react"
+      ],
+      "ignores": [
+        "index.d.ts",
+        "index.test-d.tsx"
+      ]
+    },
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-ink-spinner-3.1.0-a1090102663bf3cc90f1dbfb81f143378a892300-integrity/node_modules/ink-spinner/package.json",
+    "readmeFilename": "readme.md",
+    "readme": "# ink-spinner [![Build Status](https://travis-ci.org/vadimdemedes/ink-spinner.svg?branch=master)](https://travis-ci.org/vadimdemedes/ink-spinner)\n\n> Spinner component for [Ink](https://github.com/vadimdemedes/ink). Uses [cli-spinners](https://github.com/sindresorhus/cli-spinners) for the collection of spinners.\n\n\n## Install\n\n```\n$ npm install ink-spinner\n```\n\n\n## Usage\n\n```js\nimport React, {Fragment} from 'react';\nimport {render, Color} from 'ink';\nimport Spinner from 'ink-spinner';\n\nrender(\n\t<Fragment>\n\t\t<Color green><Spinner type=\"dots\"/></Color>\n\t\t{' Loading'}\n\t</Fragment>\n);\n```\n\n<img src=\"media/demo.gif\" width=\"482\">\n\n\n## Props\n\n### type\n\nType: `string`<br>\nDefaults: `dots`\n\nType of a spinner. See [cli-spinners](https://github.com/sindresorhus/cli-spinners) for available spinners.\n\n\n## License\n\nMIT © [Vadim Demedes](https://github.com/vadimdemedes)\n",
+    "licenseText": "MIT License\n\nCopyright (c) Vadim Demedes <vdemedes@gmail.com> (github.com/vadimdemedes)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/ink-spinner/-/ink-spinner-3.1.0.tgz#a1090102663bf3cc90f1dbfb81f143378a892300",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/ink-spinner/-/ink-spinner-3.1.0.tgz",
+    "hash": "a1090102663bf3cc90f1dbfb81f143378a892300",
+    "integrity": "sha512-sPqmE4qeJ43vJFk9DGLd0wIqhMBAr3129ZqHPt7b847fVl+YTZ3g96khI82Db+FYE7v/Fc5B3lp4ZNtJfqpRUg==",
+    "registry": "npm",
+    "packageName": "ink-spinner",
+    "cacheIntegrity": "sha512-sPqmE4qeJ43vJFk9DGLd0wIqhMBAr3129ZqHPt7b847fVl+YTZ3g96khI82Db+FYE7v/Fc5B3lp4ZNtJfqpRUg== sha1-oQkBAmY788yQ8dv7gfFDN4qJIwA="
+  },
+  "registry": "npm",
+  "hash": "a1090102663bf3cc90f1dbfb81f143378a892300"
+}

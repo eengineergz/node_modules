@@ -1,0 +1,50 @@
+{
+  "_from": "@types/read@ts4.1",
+  "_id": "@types/read@0.0.28",
+  "_inBundle": false,
+  "_integrity": "sha1-zQvkCbGSxhGfF+Z9Q09MbpQY8bU=",
+  "_location": "/@types/read",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/read@ts4.1",
+    "name": "@types/read",
+    "escapedName": "@types%2fread",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/read/-/read-0.0.28.tgz",
+  "_shasum": "cd0be409b192c6119f17e67d434f4c6e9418f1b5",
+  "_spec": "@types/read@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "author": {
+    "name": "Tim JK",
+    "email": "https://github.com/timjk"
+  },
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for read",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/read",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "af4b931663336355b274ac61f67df820f75bb7a436c7f39277e322673af205cc",
+  "typings": "index.d.ts",
+  "version": "0.0.28"
+}

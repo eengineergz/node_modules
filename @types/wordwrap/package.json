@@ -1,0 +1,54 @@
+{
+  "_from": "@types/wordwrap@ts4.1",
+  "_id": "@types/wordwrap@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-XknqsI3sxtVduA/zP475wjMPH/qaZB6teY+AGvZkNUPhwxAac/QuKt6fpJCY9iO6ZpDhBmu9iOHgLXK78hoEDA==",
+  "_location": "/@types/wordwrap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/wordwrap@ts4.1",
+    "name": "@types/wordwrap",
+    "escapedName": "@types%2fwordwrap",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/wordwrap/-/wordwrap-1.0.0.tgz",
+  "_shasum": "959ffdd318eb8b6915de78c8fc4978681ad2aa4d",
+  "_spec": "@types/wordwrap@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "ark120202",
+      "url": "https://github.com/ark120202"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for wordwrap",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/wordwrap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/wordwrap"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "8efbda0dff75fff33477abbb8a829da24abffdb05601cc1f32ecb87198879635",
+  "version": "1.0.0"
+}

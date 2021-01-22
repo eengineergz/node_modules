@@ -1,0 +1,52 @@
+{
+  "_from": "@types/set-value@ts4.1",
+  "_id": "@types/set-value@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-k8dCJEC80F/mbsIOZ5Hj3YSzTVVVBwMdtP/M9Rtc2TM4F5etVd+2UG8QUiAUfbXm4fABedL2tBZnrBheY7UwpA==",
+  "_location": "/@types/set-value",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/set-value@ts4.1",
+    "name": "@types/set-value",
+    "escapedName": "@types%2fset-value",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/set-value/-/set-value-2.0.0.tgz",
+  "_shasum": "63d386b103926dcf49b50e16e0f6dd49983046be",
+  "_spec": "@types/set-value@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Daniel Rosenwasser",
+      "url": "https://github.com/DanielRosenwasser"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for set-value",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/set-value",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "typesPublisherContentHash": "2db4786648d5473053bef563acfdef757faab38a1c8006cda6b322424356bfc0",
+  "version": "2.0.0"
+}

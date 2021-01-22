@@ -1,0 +1,54 @@
+{
+  "_from": "@types/move-concurrently@ts4.1",
+  "_id": "@types/move-concurrently@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-u//VhiV80/WrtfmvZ49VcVaSnsM5RBB9bYm5zR3DkQPLUv7EFMZjDWXalXYktnFGV0VP4SlurYA6GyVe6TNExQ==",
+  "_location": "/@types/move-concurrently",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/move-concurrently@ts4.1",
+    "name": "@types/move-concurrently",
+    "escapedName": "@types%2fmove-concurrently",
+    "scope": "@types",
+    "rawSpec": "ts4.1",
+    "saveSpec": null,
+    "fetchSpec": "ts4.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/move-concurrently/-/move-concurrently-1.0.2.tgz",
+  "_shasum": "0216268baddff4318c4e3264290f4afa836f9a23",
+  "_spec": "@types/move-concurrently@ts4.1",
+  "_where": "/home/bryan/.cache/typescript/4.1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Melvin Groenhoff",
+      "url": "https://github.com/mgroenhoff"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for move-concurrently",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/move-concurrently",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/move-concurrently"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.2",
+  "types": "index",
+  "typesPublisherContentHash": "b89de5ce5d526b2b7c88e9b5910ed62b5b3dab3602ebae616346e9c3e746faf7",
+  "version": "1.0.2"
+}

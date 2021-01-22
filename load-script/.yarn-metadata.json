@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "name": "load-script",
+    "description": "Dynamic script loading for browser",
+    "version": "1.0.0",
+    "keywords": [
+      "browser",
+      "script",
+      "load"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/eldargab/load-script"
+    },
+    "scripts": {
+      "test": "zuul -- test/index.js",
+      "test-local": "zuul --local 9005 -- test/index.js"
+    },
+    "devDependencies": {
+      "zuul": "~2.1.0"
+    },
+    "license": "MIT",
+    "_registry": "npm",
+    "_loc": "/home/bryan/.cache/yarn/v6/npm-load-script-1.0.0-0491939e0bee5643ee494a7e3da3d2bac70c6ca4-integrity/node_modules/load-script/package.json",
+    "readmeFilename": "Readme.md",
+    "readme": "# load-script\n\nDynamic script loading.\n\n## Installation\n\nvia component\n\n```\n$ component install eldargab/load-script\n```\n\nvia npm\n\n```\n$ npm install load-script\n```\n\n## API\n`load-script` appends a `script` node to the `<head>` element in the dom.\n\n`require('load-script')` returns a function of the following interface:  `function(url[, opts][, cb]) {}`\n\n### url\nAny url that you would like to load.  May be absolute or relative.\n\n### [, opts]\nA map of options.  Here are the currently supported options:\n\n* `async` - A boolean value used for `script.async`.  By default this is `true`.\n* `attrs` - A map of attributes to set on the `script` node before appending it to the DOM.  By default this is empty.\n* `charset` - A string value used for `script.charset`.  By default this is `utf8`.\n* `text` - A string of text to append to the `script` node before it is appended to the DOM.  By default this is empty.\n* `type` - A string used for `script.type`.  By default this is `text/javascript`.\n\n### [, cb]\nA callback function of the following interface: `function(err, script) {}` where `err` is an error if any occurred and `script` is the `script` node that was appended to the DOM.\n\n## Example Usage\n\n```javascript\nvar load = require('load-script')\n\nload('foo.js', function (err, script) {\n  if (err) {\n    // print useful message\n  }\n  else {\n    console.log(script.src);// Prints 'foo'.js'\n    // use script\n    // note that in IE8 and below loading error wouldn't be reported\n  }\n})\n```\n\n## License\n\nMIT\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/load-script/-/load-script-1.0.0.tgz#0491939e0bee5643ee494a7e3da3d2bac70c6ca4",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/load-script/-/load-script-1.0.0.tgz",
+    "hash": "0491939e0bee5643ee494a7e3da3d2bac70c6ca4",
+    "integrity": "sha1-BJGTngvuVkPuSUp+PaPSuscMbKQ=",
+    "registry": "npm",
+    "packageName": "load-script",
+    "cacheIntegrity": "sha512-kPEjMFtZvwL9TaZo0uZ2ml+Ye9HUMmPwbYRJ324qF9tqMejwykJ5ggTyvzmrbBeapCAbk98BSbTeovHEEP1uCA== sha1-BJGTngvuVkPuSUp+PaPSuscMbKQ="
+  },
+  "registry": "npm",
+  "hash": "0491939e0bee5643ee494a7e3da3d2bac70c6ca4"
+}
